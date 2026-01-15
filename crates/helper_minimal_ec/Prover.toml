@@ -1,0 +1,5 @@
+# Scalar = 42, expected point = G * 42
+scalar_lo = "42"
+scalar_hi = "0"
+expected_x = "0x1043dd984b697ba6c4861b6e33bd8bad627385a2598c7f669879663d8b521add"
+expected_y = "0x127804e7e5bfe71f1bcee05d237daa28340c90e1bd439dc978fe2b84cc127d8b"

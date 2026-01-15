@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ZK Poker</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div id="app">
+    <!-- Connection Screen -->
+    <div id="connect-screen" class="screen active">
+      <div class="logo">
+        <h1>ZK Poker</h1>
+        <p class="subtitle">Zero-Knowledge Texas Hold'em</p>
+      </div>
+      <div class="connect-form">
+        <input type="text" id="player-name" placeholder="Your Name" value="" maxlength="16">
+        <input type="text" id="server-url" value="ws://localhost:8080">
+        <button id="connect-btn" class="btn btn-primary">Connect</button>
+      </div>
+      <div id="connect-error" class="error-message"></div>
+    </div>
+
+    <!-- Lobby Screen -->
+    <div id="lobby-screen" class="screen">
+      <div class="lobby-header">
+        <h2>Lobby</h2>
+        <span id="player-info"></span>
+      </div>
+      <div class="lobby-actions">
+        <button id="create-room-btn" class="btn btn-primary">Create Room</button>
+        <div class="join-room">
+          <input type="text" id="room-id-input" placeholder="Room ID">
+          <button id="join-room-btn" class="btn btn-secondary">Join</button>
+        </div>
+      </div>
+      <button id="disconnect-btn" class="btn btn-danger">Disconnect</button>
+    </div>
+
+    <!-- Game Screen -->
+    <div id="game-screen" class="screen">
+      <div class="game-header">
+        <div class="room-info">
+          <span id="room-id-display"></span>
+          <button id="copy-room-id" class="btn-small">Copy</button>
+        </div>
+        <button id="leave-room-btn" class="btn btn-danger btn-small">Leave</button>
+      </div>
+
+      <!-- Poker Table -->
+      <div class="poker-table-container">
+        <div class="poker-table">
+          <!-- Community Cards -->
+          <div class="community-cards" id="community-cards">
+            <div class="card card-placeholder"></div>
+            <div class="card card-placeholder"></div>
+            <div class="card card-placeholder"></div>
+            <div class="card card-placeholder"></div>
+            <div class="card card-placeholder"></div>
+          </div>
+
+          <!-- Pot Display -->
+          <div class="pot-display">
+            <span class="pot-label">POT</span>
+            <span class="pot-amount" id="pot-amount">0</span>
+          </div>
+
+          <!-- Player Seats (will be dynamically positioned) -->
+          <div id="player-seats"></div>
+
+          <!-- Dealer Button -->
+          <div class="dealer-button" id="dealer-button">D</div>
+        </div>
+      </div>
+
+      <!-- Player's Hole Cards -->
+      <div class="my-cards-section">
+        <h3>Your Cards</h3>
+        <div class="my-cards" id="my-cards">
+          <div class="card card-back"></div>
+          <div class="card card-back"></div>
+        </div>
+      </div>
+
+      <!-- Action Panel -->
+      <div class="action-panel" id="action-panel">
+        <div class="action-info">
+          <span id="action-status">Waiting for players...</span>
+          <span id="turn-timer"></span>
+        </div>
+        <div class="action-buttons" id="action-buttons">
+          <button class="btn btn-fold" data-action="fold">Fold</button>
+          <button class="btn btn-check" data-action="check">Check</button>
+          <button class="btn btn-call" data-action="call">Call <span class="call-amount"></span></button>
+          <button class="btn btn-raise" data-action="raise">Raise</button>
+          <button class="btn btn-allin" data-action="all_in">All In</button>
+        </div>
+        <div class="bet-controls" id="bet-controls">
+          <input type="range" id="bet-slider" min="0" max="100" value="0">
+          <div class="bet-input-group">
+            <input type="number" id="bet-amount" min="0" value="0">
+            <button class="btn btn-confirm-bet" id="confirm-bet">Confirm</button>
+          </div>
+          <div class="bet-presets">
+            <button class="btn-preset" data-preset="min">Min</button>
+            <button class="btn-preset" data-preset="half">1/2 Pot</button>
+            <button class="btn-preset" data-preset="pot">Pot</button>
+            <button class="btn-preset" data-preset="allin">All In</button>
+          </div>
+        </div>
+        <div class="ready-controls" id="ready-controls">
+          <button id="ready-btn" class="btn btn-primary btn-large">Ready</button>
+          <button id="not-ready-btn" class="btn btn-secondary btn-large">Not Ready</button>
+        </div>
+      </div>
+
+      <!-- Game Log -->
+      <div class="game-log" id="game-log">
+        <div class="log-header">Game Log</div>
+        <div class="log-content" id="log-content"></div>
+      </div>
+    </div>
+
+    <!-- Showdown Modal -->
+    <div id="showdown-modal" class="modal">
+      <div class="modal-content">
+        <h2>Showdown</h2>
+        <div id="showdown-results"></div>
+        <button id="close-showdown" class="btn btn-primary">Continue</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="js/cards.js"></script>
+  <script src="js/game.js"></script>
+  <script src="js/ui.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

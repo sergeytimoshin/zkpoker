@@ -1,0 +1,8 @@
+# Showdown helper: compute state commitments
+# P1 wins (winner = 0)
+
+stack_p1 = 98
+stack_p2 = 98
+pot = 4
+dealer = 1
+winner = 0

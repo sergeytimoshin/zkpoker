@@ -1,0 +1,8 @@
+[package]
+name = "integration_tests"
+type = "bin"
+authors = [""]
+compiler_version = ">=0.36.0"
+
+[dependencies]
+zkpoker_primitives = { path = "../zkpoker_primitives" }

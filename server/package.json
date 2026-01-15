@@ -1,0 +1,31 @@
+{
+  "name": "@zkpoker/server",
+  "version": "0.1.0",
+  "description": "ZK Poker game server with WebSocket support",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsx watch src/index.ts",
+    "serve": "npx serve public -p 3000",
+    "test": "vitest --run",
+    "test:watch": "vitest",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@zkpoker/sdk": "file:../sdk",
+    "ws": "^8.18.0",
+    "uuid": "^11.0.4",
+    "zod": "^3.24.1",
+    "snarkjs": "^0.7.4"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.3",
+    "tsx": "^4.19.2",
+    "vitest": "^2.1.8",
+    "@types/ws": "^8.5.13",
+    "@types/node": "^22.10.5",
+    "@types/uuid": "^10.0.0"
+  }
+}

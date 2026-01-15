@@ -1,0 +1,29 @@
+.claude
+
+# Rust
+target/
+
+# Node
+node_modules/
+package-lock.json
+
+# Circom build artifacts
+circom/build/
+
+# Symlinks to build artifacts
+client/public/circuits
+
+# TypeScript compiled output
+server/dist/
+
+# Powers of tau files (download separately)
+*.ptau
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store

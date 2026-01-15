@@ -1,0 +1,6442 @@
+[
+  {
+    "prime": "31367009",
+    "rank": 0,
+    "category": "RoyalFlush"
+  },
+  {
+    "prime": "14535931",
+    "rank": 1,
+    "category": "StraightFlush"
+  },
+  {
+    "prime": "6678671",
+    "rank": 2,
+    "category": "StraightFlush"
+  },
+  {
+    "prime": "2800733",
+    "rank": 3,
+    "category": "StraightFlush"
+  },
+  {
+    "prime": "1062347",
+    "rank": 4,
+    "category": "StraightFlush"
+  },
+  {
+    "prime": "323323",
+    "rank": 5,
+    "category": "StraightFlush"
+  },
+  {
+    "prime": "85085",
+    "rank": 6,
+    "category": "StraightFlush"
+  },
+  {
+    "prime": "15015",
+    "rank": 7,
+    "category": "StraightFlush"
+  },
+  {
+    "prime": "2310",
+    "rank": 8,
+    "category": "StraightFlush"
+  },
+  {
+    "prime": "8610",
+    "rank": 9,
+    "category": "StraightFlush"
+  },
+  {
+    "prime": "8610",
+    "rank": 10,
+    "category": "StraightFlush"
+  },
+  {
+    "prime": "25911877",
+    "rank": 11,
+    "category": "Flush"
+  },
+  {
+    "prime": "23184311",
+    "rank": 12,
+    "category": "Flush"
+  },
+  {
+    "prime": "17729179",
+    "rank": 13,
+    "category": "Flush"
+  },
+  {
+    "prime": "15001613",
+    "rank": 14,
+    "category": "Flush"
+  },
+  {
+    "prime": "9546481",
+    "rank": 15,
+    "category": "Flush"
+  },
+  {
+    "prime": "6818915",
+    "rank": 16,
+    "category": "Flush"
+  },
+  {
+    "prime": "4091349",
+    "rank": 17,
+    "category": "Flush"
+  },
+  {
+    "prime": "2727566",
+    "rank": 18,
+    "category": "Flush"
+  },
+  {
+    "prime": "20550799",
+    "rank": 19,
+    "category": "Flush"
+  },
+  {
+    "prime": "18387557",
+    "rank": 20,
+    "category": "Flush"
+  },
+  {
+    "prime": "14061073",
+    "rank": 21,
+    "category": "Flush"
+  },
+  {
+    "prime": "11897831",
+    "rank": 22,
+    "category": "Flush"
+  },
+  {
+    "prime": "7571347",
+    "rank": 23,
+    "category": "Flush"
+  },
+  {
+    "prime": "5408105",
+    "rank": 24,
+    "category": "Flush"
+  },
+  {
+    "prime": "3244863",
+    "rank": 25,
+    "category": "Flush"
+  },
+  {
+    "prime": "2163242",
+    "rank": 26,
+    "category": "Flush"
+  },
+  {
+    "prime": "15189721",
+    "rank": 27,
+    "category": "Flush"
+  },
+  {
+    "prime": "11615669",
+    "rank": 28,
+    "category": "Flush"
+  },
+  {
+    "prime": "9828643",
+    "rank": 29,
+    "category": "Flush"
+  },
+  {
+    "prime": "6254591",
+    "rank": 30,
+    "category": "Flush"
+  },
+  {
+    "prime": "4467565",
+    "rank": 31,
+    "category": "Flush"
+  },
+  {
+    "prime": "2680539",
+    "rank": 32,
+    "category": "Flush"
+  },
+  {
+    "prime": "1787026",
+    "rank": 33,
+    "category": "Flush"
+  },
+  {
+    "prime": "10392967",
+    "rank": 34,
+    "category": "Flush"
+  },
+  {
+    "prime": "8794049",
+    "rank": 35,
+    "category": "Flush"
+  },
+  {
+    "prime": "5596213",
+    "rank": 36,
+    "category": "Flush"
+  },
+  {
+    "prime": "3997295",
+    "rank": 37,
+    "category": "Flush"
+  },
+  {
+    "prime": "2398377",
+    "rank": 38,
+    "category": "Flush"
+  },
+  {
+    "prime": "1598918",
+    "rank": 39,
+    "category": "Flush"
+  },
+  {
+    "prime": "6724861",
+    "rank": 40,
+    "category": "Flush"
+  },
+  {
+    "prime": "4279457",
+    "rank": 41,
+    "category": "Flush"
+  },
+  {
+    "prime": "3056755",
+    "rank": 42,
+    "category": "Flush"
+  },
+  {
+    "prime": "1834053",
+    "rank": 43,
+    "category": "Flush"
+  },
+  {
+    "prime": "1222702",
+    "rank": 44,
+    "category": "Flush"
+  },
+  {
+    "prime": "3621079",
+    "rank": 45,
+    "category": "Flush"
+  },
+  {
+    "prime": "2586485",
+    "rank": 46,
+    "category": "Flush"
+  },
+  {
+    "prime": "1551891",
+    "rank": 47,
+    "category": "Flush"
+  },
+  {
+    "prime": "1034594",
+    "rank": 48,
+    "category": "Flush"
+  },
+  {
+    "prime": "1645945",
+    "rank": 49,
+    "category": "Flush"
+  },
+  {
+    "prime": "987567",
+    "rank": 50,
+    "category": "Flush"
+  },
+  {
+    "prime": "658378",
+    "rank": 51,
+    "category": "Flush"
+  },
+  {
+    "prime": "705405",
+    "rank": 52,
+    "category": "Flush"
+  },
+  {
+    "prime": "470270",
+    "rank": 53,
+    "category": "Flush"
+  },
+  {
+    "prime": "282162",
+    "rank": 54,
+    "category": "Flush"
+  },
+  {
+    "prime": "19224941",
+    "rank": 55,
+    "category": "Flush"
+  },
+  {
+    "prime": "17201263",
+    "rank": 56,
+    "category": "Flush"
+  },
+  {
+    "prime": "13153907",
+    "rank": 57,
+    "category": "Flush"
+  },
+  {
+    "prime": "11130229",
+    "rank": 58,
+    "category": "Flush"
+  },
+  {
+    "prime": "7082873",
+    "rank": 59,
+    "category": "Flush"
+  },
+  {
+    "prime": "5059195",
+    "rank": 60,
+    "category": "Flush"
+  },
+  {
+    "prime": "3035517",
+    "rank": 61,
+    "category": "Flush"
+  },
+  {
+    "prime": "2023678",
+    "rank": 62,
+    "category": "Flush"
+  },
+  {
+    "prime": "14209739",
+    "rank": 63,
+    "category": "Flush"
+  },
+  {
+    "prime": "10866271",
+    "rank": 64,
+    "category": "Flush"
+  },
+  {
+    "prime": "9194537",
+    "rank": 65,
+    "category": "Flush"
+  },
+  {
+    "prime": "5851069",
+    "rank": 66,
+    "category": "Flush"
+  },
+  {
+    "prime": "4179335",
+    "rank": 67,
+    "category": "Flush"
+  },
+  {
+    "prime": "2507601",
+    "rank": 68,
+    "category": "Flush"
+  },
+  {
+    "prime": "1671734",
+    "rank": 69,
+    "category": "Flush"
+  },
+  {
+    "prime": "9722453",
+    "rank": 70,
+    "category": "Flush"
+  },
+  {
+    "prime": "8226691",
+    "rank": 71,
+    "category": "Flush"
+  },
+  {
+    "prime": "5235167",
+    "rank": 72,
+    "category": "Flush"
+  },
+  {
+    "prime": "3739405",
+    "rank": 73,
+    "category": "Flush"
+  },
+  {
+    "prime": "2243643",
+    "rank": 74,
+    "category": "Flush"
+  },
+  {
+    "prime": "1495762",
+    "rank": 75,
+    "category": "Flush"
+  },
+  {
+    "prime": "6290999",
+    "rank": 76,
+    "category": "Flush"
+  },
+  {
+    "prime": "4003363",
+    "rank": 77,
+    "category": "Flush"
+  },
+  {
+    "prime": "2859545",
+    "rank": 78,
+    "category": "Flush"
+  },
+  {
+    "prime": "1715727",
+    "rank": 79,
+    "category": "Flush"
+  },
+  {
+    "prime": "1143818",
+    "rank": 80,
+    "category": "Flush"
+  },
+  {
+    "prime": "3387461",
+    "rank": 81,
+    "category": "Flush"
+  },
+  {
+    "prime": "2419615",
+    "rank": 82,
+    "category": "Flush"
+  },
+  {
+    "prime": "1451769",
+    "rank": 83,
+    "category": "Flush"
+  },
+  {
+    "prime": "967846",
+    "rank": 84,
+    "category": "Flush"
+  },
+  {
+    "prime": "1539755",
+    "rank": 85,
+    "category": "Flush"
+  },
+  {
+    "prime": "923853",
+    "rank": 86,
+    "category": "Flush"
+  },
+  {
+    "prime": "615902",
+    "rank": 87,
+    "category": "Flush"
+  },
+  {
+    "prime": "659895",
+    "rank": 88,
+    "category": "Flush"
+  },
+  {
+    "prime": "439930",
+    "rank": 89,
+    "category": "Flush"
+  },
+  {
+    "prime": "263958",
+    "rank": 90,
+    "category": "Flush"
+  },
+  {
+    "prime": "11269793",
+    "rank": 91,
+    "category": "Flush"
+  },
+  {
+    "prime": "8618077",
+    "rank": 92,
+    "category": "Flush"
+  },
+  {
+    "prime": "7292219",
+    "rank": 93,
+    "category": "Flush"
+  },
+  {
+    "prime": "4640503",
+    "rank": 94,
+    "category": "Flush"
+  },
+  {
+    "prime": "3314645",
+    "rank": 95,
+    "category": "Flush"
+  },
+  {
+    "prime": "1988787",
+    "rank": 96,
+    "category": "Flush"
+  },
+  {
+    "prime": "1325858",
+    "rank": 97,
+    "category": "Flush"
+  },
+  {
+    "prime": "7710911",
+    "rank": 98,
+    "category": "Flush"
+  },
+  {
+    "prime": "6524617",
+    "rank": 99,
+    "category": "Flush"
+  },
+  {
+    "prime": "4152029",
+    "rank": 100,
+    "category": "Flush"
+  },
+  {
+    "prime": "2965735",
+    "rank": 101,
+    "category": "Flush"
+  },
+  {
+    "prime": "1779441",
+    "rank": 102,
+    "category": "Flush"
+  },
+  {
+    "prime": "1186294",
+    "rank": 103,
+    "category": "Flush"
+  },
+  {
+    "prime": "4989413",
+    "rank": 104,
+    "category": "Flush"
+  },
+  {
+    "prime": "3175081",
+    "rank": 105,
+    "category": "Flush"
+  },
+  {
+    "prime": "2267915",
+    "rank": 106,
+    "category": "Flush"
+  },
+  {
+    "prime": "1360749",
+    "rank": 107,
+    "category": "Flush"
+  },
+  {
+    "prime": "907166",
+    "rank": 108,
+    "category": "Flush"
+  },
+  {
+    "prime": "2686607",
+    "rank": 109,
+    "category": "Flush"
+  },
+  {
+    "prime": "1919005",
+    "rank": 110,
+    "category": "Flush"
+  },
+  {
+    "prime": "1151403",
+    "rank": 111,
+    "category": "Flush"
+  },
+  {
+    "prime": "767602",
+    "rank": 112,
+    "category": "Flush"
+  },
+  {
+    "prime": "1221185",
+    "rank": 113,
+    "category": "Flush"
+  },
+  {
+    "prime": "732711",
+    "rank": 114,
+    "category": "Flush"
+  },
+  {
+    "prime": "488474",
+    "rank": 115,
+    "category": "Flush"
+  },
+  {
+    "prime": "523365",
+    "rank": 116,
+    "category": "Flush"
+  },
+  {
+    "prime": "348910",
+    "rank": 117,
+    "category": "Flush"
+  },
+  {
+    "prime": "209346",
+    "rank": 118,
+    "category": "Flush"
+  },
+  {
+    "prime": "6369883",
+    "rank": 119,
+    "category": "Flush"
+  },
+  {
+    "prime": "5389901",
+    "rank": 120,
+    "category": "Flush"
+  },
+  {
+    "prime": "3429937",
+    "rank": 121,
+    "category": "Flush"
+  },
+  {
+    "prime": "2449955",
+    "rank": 122,
+    "category": "Flush"
+  },
+  {
+    "prime": "1469973",
+    "rank": 123,
+    "category": "Flush"
+  },
+  {
+    "prime": "979982",
+    "rank": 124,
+    "category": "Flush"
+  },
+  {
+    "prime": "4121689",
+    "rank": 125,
+    "category": "Flush"
+  },
+  {
+    "prime": "2622893",
+    "rank": 126,
+    "category": "Flush"
+  },
+  {
+    "prime": "1873495",
+    "rank": 127,
+    "category": "Flush"
+  },
+  {
+    "prime": "1124097",
+    "rank": 128,
+    "category": "Flush"
+  },
+  {
+    "prime": "749398",
+    "rank": 129,
+    "category": "Flush"
+  },
+  {
+    "prime": "2219371",
+    "rank": 130,
+    "category": "Flush"
+  },
+  {
+    "prime": "1585265",
+    "rank": 131,
+    "category": "Flush"
+  },
+  {
+    "prime": "951159",
+    "rank": 132,
+    "category": "Flush"
+  },
+  {
+    "prime": "634106",
+    "rank": 133,
+    "category": "Flush"
+  },
+  {
+    "prime": "1008805",
+    "rank": 134,
+    "category": "Flush"
+  },
+  {
+    "prime": "605283",
+    "rank": 135,
+    "category": "Flush"
+  },
+  {
+    "prime": "403522",
+    "rank": 136,
+    "category": "Flush"
+  },
+  {
+    "prime": "432345",
+    "rank": 137,
+    "category": "Flush"
+  },
+  {
+    "prime": "288230",
+    "rank": 138,
+    "category": "Flush"
+  },
+  {
+    "prime": "172938",
+    "rank": 139,
+    "category": "Flush"
+  },
+  {
+    "prime": "3687827",
+    "rank": 140,
+    "category": "Flush"
+  },
+  {
+    "prime": "2346799",
+    "rank": 141,
+    "category": "Flush"
+  },
+  {
+    "prime": "1676285",
+    "rank": 142,
+    "category": "Flush"
+  },
+  {
+    "prime": "1005771",
+    "rank": 143,
+    "category": "Flush"
+  },
+  {
+    "prime": "670514",
+    "rank": 144,
+    "category": "Flush"
+  },
+  {
+    "prime": "1985753",
+    "rank": 145,
+    "category": "Flush"
+  },
+  {
+    "prime": "1418395",
+    "rank": 146,
+    "category": "Flush"
+  },
+  {
+    "prime": "851037",
+    "rank": 147,
+    "category": "Flush"
+  },
+  {
+    "prime": "567358",
+    "rank": 148,
+    "category": "Flush"
+  },
+  {
+    "prime": "902615",
+    "rank": 149,
+    "category": "Flush"
+  },
+  {
+    "prime": "541569",
+    "rank": 150,
+    "category": "Flush"
+  },
+  {
+    "prime": "361046",
+    "rank": 151,
+    "category": "Flush"
+  },
+  {
+    "prime": "386835",
+    "rank": 152,
+    "category": "Flush"
+  },
+  {
+    "prime": "257890",
+    "rank": 153,
+    "category": "Flush"
+  },
+  {
+    "prime": "154734",
+    "rank": 154,
+    "category": "Flush"
+  },
+  {
+    "prime": "1518517",
+    "rank": 155,
+    "category": "Flush"
+  },
+  {
+    "prime": "1084655",
+    "rank": 156,
+    "category": "Flush"
+  },
+  {
+    "prime": "650793",
+    "rank": 157,
+    "category": "Flush"
+  },
+  {
+    "prime": "433862",
+    "rank": 158,
+    "category": "Flush"
+  },
+  {
+    "prime": "690235",
+    "rank": 159,
+    "category": "Flush"
+  },
+  {
+    "prime": "414141",
+    "rank": 160,
+    "category": "Flush"
+  },
+  {
+    "prime": "276094",
+    "rank": 161,
+    "category": "Flush"
+  },
+  {
+    "prime": "295815",
+    "rank": 162,
+    "category": "Flush"
+  },
+  {
+    "prime": "197210",
+    "rank": 163,
+    "category": "Flush"
+  },
+  {
+    "prime": "118326",
+    "rank": 164,
+    "category": "Flush"
+  },
+  {
+    "prime": "584045",
+    "rank": 165,
+    "category": "Flush"
+  },
+  {
+    "prime": "350427",
+    "rank": 166,
+    "category": "Flush"
+  },
+  {
+    "prime": "233618",
+    "rank": 167,
+    "category": "Flush"
+  },
+  {
+    "prime": "250305",
+    "rank": 168,
+    "category": "Flush"
+  },
+  {
+    "prime": "166870",
+    "rank": 169,
+    "category": "Flush"
+  },
+  {
+    "prime": "100122",
+    "rank": 170,
+    "category": "Flush"
+  },
+  {
+    "prime": "159285",
+    "rank": 171,
+    "category": "Flush"
+  },
+  {
+    "prime": "106190",
+    "rank": 172,
+    "category": "Flush"
+  },
+  {
+    "prime": "63714",
+    "rank": 173,
+    "category": "Flush"
+  },
+  {
+    "prime": "45510",
+    "rank": 174,
+    "category": "Flush"
+  },
+  {
+    "prime": "16107383",
+    "rank": 175,
+    "category": "Flush"
+  },
+  {
+    "prime": "14411869",
+    "rank": 176,
+    "category": "Flush"
+  },
+  {
+    "prime": "11020841",
+    "rank": 177,
+    "category": "Flush"
+  },
+  {
+    "prime": "9325327",
+    "rank": 178,
+    "category": "Flush"
+  },
+  {
+    "prime": "5934299",
+    "rank": 179,
+    "category": "Flush"
+  },
+  {
+    "prime": "4238785",
+    "rank": 180,
+    "category": "Flush"
+  },
+  {
+    "prime": "2543271",
+    "rank": 181,
+    "category": "Flush"
+  },
+  {
+    "prime": "1695514",
+    "rank": 182,
+    "category": "Flush"
+  },
+  {
+    "prime": "11905457",
+    "rank": 183,
+    "category": "Flush"
+  },
+  {
+    "prime": "9104173",
+    "rank": 184,
+    "category": "Flush"
+  },
+  {
+    "prime": "7703531",
+    "rank": 185,
+    "category": "Flush"
+  },
+  {
+    "prime": "4902247",
+    "rank": 186,
+    "category": "Flush"
+  },
+  {
+    "prime": "3501605",
+    "rank": 187,
+    "category": "Flush"
+  },
+  {
+    "prime": "2100963",
+    "rank": 188,
+    "category": "Flush"
+  },
+  {
+    "prime": "1400642",
+    "rank": 189,
+    "category": "Flush"
+  },
+  {
+    "prime": "8145839",
+    "rank": 190,
+    "category": "Flush"
+  },
+  {
+    "prime": "6892633",
+    "rank": 191,
+    "category": "Flush"
+  },
+  {
+    "prime": "4386221",
+    "rank": 192,
+    "category": "Flush"
+  },
+  {
+    "prime": "3133015",
+    "rank": 193,
+    "category": "Flush"
+  },
+  {
+    "prime": "1879809",
+    "rank": 194,
+    "category": "Flush"
+  },
+  {
+    "prime": "1253206",
+    "rank": 195,
+    "category": "Flush"
+  },
+  {
+    "prime": "5270837",
+    "rank": 196,
+    "category": "Flush"
+  },
+  {
+    "prime": "3354169",
+    "rank": 197,
+    "category": "Flush"
+  },
+  {
+    "prime": "2395835",
+    "rank": 198,
+    "category": "Flush"
+  },
+  {
+    "prime": "1437501",
+    "rank": 199,
+    "category": "Flush"
+  },
+  {
+    "prime": "958334",
+    "rank": 200,
+    "category": "Flush"
+  },
+  {
+    "prime": "2838143",
+    "rank": 201,
+    "category": "Flush"
+  },
+  {
+    "prime": "2027245",
+    "rank": 202,
+    "category": "Flush"
+  },
+  {
+    "prime": "1216347",
+    "rank": 203,
+    "category": "Flush"
+  },
+  {
+    "prime": "810898",
+    "rank": 204,
+    "category": "Flush"
+  },
+  {
+    "prime": "1290065",
+    "rank": 205,
+    "category": "Flush"
+  },
+  {
+    "prime": "774039",
+    "rank": 206,
+    "category": "Flush"
+  },
+  {
+    "prime": "516026",
+    "rank": 207,
+    "category": "Flush"
+  },
+  {
+    "prime": "552885",
+    "rank": 208,
+    "category": "Flush"
+  },
+  {
+    "prime": "368590",
+    "rank": 209,
+    "category": "Flush"
+  },
+  {
+    "prime": "221154",
+    "rank": 210,
+    "category": "Flush"
+  },
+  {
+    "prime": "9442259",
+    "rank": 211,
+    "category": "Flush"
+  },
+  {
+    "prime": "7220551",
+    "rank": 212,
+    "category": "Flush"
+  },
+  {
+    "prime": "6109697",
+    "rank": 213,
+    "category": "Flush"
+  },
+  {
+    "prime": "3887989",
+    "rank": 214,
+    "category": "Flush"
+  },
+  {
+    "prime": "2777135",
+    "rank": 215,
+    "category": "Flush"
+  },
+  {
+    "prime": "1666281",
+    "rank": 216,
+    "category": "Flush"
+  },
+  {
+    "prime": "1110854",
+    "rank": 217,
+    "category": "Flush"
+  },
+  {
+    "prime": "6460493",
+    "rank": 218,
+    "category": "Flush"
+  },
+  {
+    "prime": "5466571",
+    "rank": 219,
+    "category": "Flush"
+  },
+  {
+    "prime": "3478727",
+    "rank": 220,
+    "category": "Flush"
+  },
+  {
+    "prime": "2484805",
+    "rank": 221,
+    "category": "Flush"
+  },
+  {
+    "prime": "1490883",
+    "rank": 222,
+    "category": "Flush"
+  },
+  {
+    "prime": "993922",
+    "rank": 223,
+    "category": "Flush"
+  },
+  {
+    "prime": "4180319",
+    "rank": 224,
+    "category": "Flush"
+  },
+  {
+    "prime": "2660203",
+    "rank": 225,
+    "category": "Flush"
+  },
+  {
+    "prime": "1900145",
+    "rank": 226,
+    "category": "Flush"
+  },
+  {
+    "prime": "1140087",
+    "rank": 227,
+    "category": "Flush"
+  },
+  {
+    "prime": "760058",
+    "rank": 228,
+    "category": "Flush"
+  },
+  {
+    "prime": "2250941",
+    "rank": 229,
+    "category": "Flush"
+  },
+  {
+    "prime": "1607815",
+    "rank": 230,
+    "category": "Flush"
+  },
+  {
+    "prime": "964689",
+    "rank": 231,
+    "category": "Flush"
+  },
+  {
+    "prime": "643126",
+    "rank": 232,
+    "category": "Flush"
+  },
+  {
+    "prime": "1023155",
+    "rank": 233,
+    "category": "Flush"
+  },
+  {
+    "prime": "613893",
+    "rank": 234,
+    "category": "Flush"
+  },
+  {
+    "prime": "409262",
+    "rank": 235,
+    "category": "Flush"
+  },
+  {
+    "prime": "438495",
+    "rank": 236,
+    "category": "Flush"
+  },
+  {
+    "prime": "292330",
+    "rank": 237,
+    "category": "Flush"
+  },
+  {
+    "prime": "175398",
+    "rank": 238,
+    "category": "Flush"
+  },
+  {
+    "prime": "5336929",
+    "rank": 239,
+    "category": "Flush"
+  },
+  {
+    "prime": "4515863",
+    "rank": 240,
+    "category": "Flush"
+  },
+  {
+    "prime": "2873731",
+    "rank": 241,
+    "category": "Flush"
+  },
+  {
+    "prime": "2052665",
+    "rank": 242,
+    "category": "Flush"
+  },
+  {
+    "prime": "1231599",
+    "rank": 243,
+    "category": "Flush"
+  },
+  {
+    "prime": "821066",
+    "rank": 244,
+    "category": "Flush"
+  },
+  {
+    "prime": "3453307",
+    "rank": 245,
+    "category": "Flush"
+  },
+  {
+    "prime": "2197559",
+    "rank": 246,
+    "category": "Flush"
+  },
+  {
+    "prime": "1569685",
+    "rank": 247,
+    "category": "Flush"
+  },
+  {
+    "prime": "941811",
+    "rank": 248,
+    "category": "Flush"
+  },
+  {
+    "prime": "627874",
+    "rank": 249,
+    "category": "Flush"
+  },
+  {
+    "prime": "1859473",
+    "rank": 250,
+    "category": "Flush"
+  },
+  {
+    "prime": "1328195",
+    "rank": 251,
+    "category": "Flush"
+  },
+  {
+    "prime": "796917",
+    "rank": 252,
+    "category": "Flush"
+  },
+  {
+    "prime": "531278",
+    "rank": 253,
+    "category": "Flush"
+  },
+  {
+    "prime": "845215",
+    "rank": 254,
+    "category": "Flush"
+  },
+  {
+    "prime": "507129",
+    "rank": 255,
+    "category": "Flush"
+  },
+  {
+    "prime": "338086",
+    "rank": 256,
+    "category": "Flush"
+  },
+  {
+    "prime": "362235",
+    "rank": 257,
+    "category": "Flush"
+  },
+  {
+    "prime": "241490",
+    "rank": 258,
+    "category": "Flush"
+  },
+  {
+    "prime": "144894",
+    "rank": 259,
+    "category": "Flush"
+  },
+  {
+    "prime": "3089801",
+    "rank": 260,
+    "category": "Flush"
+  },
+  {
+    "prime": "1966237",
+    "rank": 261,
+    "category": "Flush"
+  },
+  {
+    "prime": "1404455",
+    "rank": 262,
+    "category": "Flush"
+  },
+  {
+    "prime": "842673",
+    "rank": 263,
+    "category": "Flush"
+  },
+  {
+    "prime": "561782",
+    "rank": 264,
+    "category": "Flush"
+  },
+  {
+    "prime": "1663739",
+    "rank": 265,
+    "category": "Flush"
+  },
+  {
+    "prime": "1188385",
+    "rank": 266,
+    "category": "Flush"
+  },
+  {
+    "prime": "713031",
+    "rank": 267,
+    "category": "Flush"
+  },
+  {
+    "prime": "475354",
+    "rank": 268,
+    "category": "Flush"
+  },
+  {
+    "prime": "756245",
+    "rank": 269,
+    "category": "Flush"
+  },
+  {
+    "prime": "453747",
+    "rank": 270,
+    "category": "Flush"
+  },
+  {
+    "prime": "302498",
+    "rank": 271,
+    "category": "Flush"
+  },
+  {
+    "prime": "324105",
+    "rank": 272,
+    "category": "Flush"
+  },
+  {
+    "prime": "216070",
+    "rank": 273,
+    "category": "Flush"
+  },
+  {
+    "prime": "129642",
+    "rank": 274,
+    "category": "Flush"
+  },
+  {
+    "prime": "1272271",
+    "rank": 275,
+    "category": "Flush"
+  },
+  {
+    "prime": "908765",
+    "rank": 276,
+    "category": "Flush"
+  },
+  {
+    "prime": "545259",
+    "rank": 277,
+    "category": "Flush"
+  },
+  {
+    "prime": "363506",
+    "rank": 278,
+    "category": "Flush"
+  },
+  {
+    "prime": "578305",
+    "rank": 279,
+    "category": "Flush"
+  },
+  {
+    "prime": "346983",
+    "rank": 280,
+    "category": "Flush"
+  },
+  {
+    "prime": "231322",
+    "rank": 281,
+    "category": "Flush"
+  },
+  {
+    "prime": "247845",
+    "rank": 282,
+    "category": "Flush"
+  },
+  {
+    "prime": "165230",
+    "rank": 283,
+    "category": "Flush"
+  },
+  {
+    "prime": "99138",
+    "rank": 284,
+    "category": "Flush"
+  },
+  {
+    "prime": "489335",
+    "rank": 285,
+    "category": "Flush"
+  },
+  {
+    "prime": "293601",
+    "rank": 286,
+    "category": "Flush"
+  },
+  {
+    "prime": "195734",
+    "rank": 287,
+    "category": "Flush"
+  },
+  {
+    "prime": "209715",
+    "rank": 288,
+    "category": "Flush"
+  },
+  {
+    "prime": "139810",
+    "rank": 289,
+    "category": "Flush"
+  },
+  {
+    "prime": "83886",
+    "rank": 290,
+    "category": "Flush"
+  },
+  {
+    "prime": "133455",
+    "rank": 291,
+    "category": "Flush"
+  },
+  {
+    "prime": "88970",
+    "rank": 292,
+    "category": "Flush"
+  },
+  {
+    "prime": "53382",
+    "rank": 293,
+    "category": "Flush"
+  },
+  {
+    "prime": "38130",
+    "rank": 294,
+    "category": "Flush"
+  },
+  {
+    "prime": "8833081",
+    "rank": 295,
+    "category": "Flush"
+  },
+  {
+    "prime": "6754709",
+    "rank": 296,
+    "category": "Flush"
+  },
+  {
+    "prime": "5715523",
+    "rank": 297,
+    "category": "Flush"
+  },
+  {
+    "prime": "3637151",
+    "rank": 298,
+    "category": "Flush"
+  },
+  {
+    "prime": "2597965",
+    "rank": 299,
+    "category": "Flush"
+  },
+  {
+    "prime": "1558779",
+    "rank": 300,
+    "category": "Flush"
+  },
+  {
+    "prime": "1039186",
+    "rank": 301,
+    "category": "Flush"
+  },
+  {
+    "prime": "6043687",
+    "rank": 302,
+    "category": "Flush"
+  },
+  {
+    "prime": "5113889",
+    "rank": 303,
+    "category": "Flush"
+  },
+  {
+    "prime": "3254293",
+    "rank": 304,
+    "category": "Flush"
+  },
+  {
+    "prime": "2324495",
+    "rank": 305,
+    "category": "Flush"
+  },
+  {
+    "prime": "1394697",
+    "rank": 306,
+    "category": "Flush"
+  },
+  {
+    "prime": "929798",
+    "rank": 307,
+    "category": "Flush"
+  },
+  {
+    "prime": "3910621",
+    "rank": 308,
+    "category": "Flush"
+  },
+  {
+    "prime": "2488577",
+    "rank": 309,
+    "category": "Flush"
+  },
+  {
+    "prime": "1777555",
+    "rank": 310,
+    "category": "Flush"
+  },
+  {
+    "prime": "1066533",
+    "rank": 311,
+    "category": "Flush"
+  },
+  {
+    "prime": "711022",
+    "rank": 312,
+    "category": "Flush"
+  },
+  {
+    "prime": "2105719",
+    "rank": 313,
+    "category": "Flush"
+  },
+  {
+    "prime": "1504085",
+    "rank": 314,
+    "category": "Flush"
+  },
+  {
+    "prime": "902451",
+    "rank": 315,
+    "category": "Flush"
+  },
+  {
+    "prime": "601634",
+    "rank": 316,
+    "category": "Flush"
+  },
+  {
+    "prime": "957145",
+    "rank": 317,
+    "category": "Flush"
+  },
+  {
+    "prime": "574287",
+    "rank": 318,
+    "category": "Flush"
+  },
+  {
+    "prime": "382858",
+    "rank": 319,
+    "category": "Flush"
+  },
+  {
+    "prime": "410205",
+    "rank": 320,
+    "category": "Flush"
+  },
+  {
+    "prime": "273470",
+    "rank": 321,
+    "category": "Flush"
+  },
+  {
+    "prime": "164082",
+    "rank": 322,
+    "category": "Flush"
+  },
+  {
+    "prime": "4992611",
+    "rank": 323,
+    "category": "Flush"
+  },
+  {
+    "prime": "4224517",
+    "rank": 324,
+    "category": "Flush"
+  },
+  {
+    "prime": "2688329",
+    "rank": 325,
+    "category": "Flush"
+  },
+  {
+    "prime": "1920235",
+    "rank": 326,
+    "category": "Flush"
+  },
+  {
+    "prime": "1152141",
+    "rank": 327,
+    "category": "Flush"
+  },
+  {
+    "prime": "768094",
+    "rank": 328,
+    "category": "Flush"
+  },
+  {
+    "prime": "3230513",
+    "rank": 329,
+    "category": "Flush"
+  },
+  {
+    "prime": "2055781",
+    "rank": 330,
+    "category": "Flush"
+  },
+  {
+    "prime": "1468415",
+    "rank": 331,
+    "category": "Flush"
+  },
+  {
+    "prime": "881049",
+    "rank": 332,
+    "category": "Flush"
+  },
+  {
+    "prime": "587366",
+    "rank": 333,
+    "category": "Flush"
+  },
+  {
+    "prime": "1739507",
+    "rank": 334,
+    "category": "Flush"
+  },
+  {
+    "prime": "1242505",
+    "rank": 335,
+    "category": "Flush"
+  },
+  {
+    "prime": "745503",
+    "rank": 336,
+    "category": "Flush"
+  },
+  {
+    "prime": "497002",
+    "rank": 337,
+    "category": "Flush"
+  },
+  {
+    "prime": "790685",
+    "rank": 338,
+    "category": "Flush"
+  },
+  {
+    "prime": "474411",
+    "rank": 339,
+    "category": "Flush"
+  },
+  {
+    "prime": "316274",
+    "rank": 340,
+    "category": "Flush"
+  },
+  {
+    "prime": "338865",
+    "rank": 341,
+    "category": "Flush"
+  },
+  {
+    "prime": "225910",
+    "rank": 342,
+    "category": "Flush"
+  },
+  {
+    "prime": "135546",
+    "rank": 343,
+    "category": "Flush"
+  },
+  {
+    "prime": "2890459",
+    "rank": 344,
+    "category": "Flush"
+  },
+  {
+    "prime": "1839383",
+    "rank": 345,
+    "category": "Flush"
+  },
+  {
+    "prime": "1313845",
+    "rank": 346,
+    "category": "Flush"
+  },
+  {
+    "prime": "788307",
+    "rank": 347,
+    "category": "Flush"
+  },
+  {
+    "prime": "525538",
+    "rank": 348,
+    "category": "Flush"
+  },
+  {
+    "prime": "1556401",
+    "rank": 349,
+    "category": "Flush"
+  },
+  {
+    "prime": "1111715",
+    "rank": 350,
+    "category": "Flush"
+  },
+  {
+    "prime": "667029",
+    "rank": 351,
+    "category": "Flush"
+  },
+  {
+    "prime": "444686",
+    "rank": 352,
+    "category": "Flush"
+  },
+  {
+    "prime": "707455",
+    "rank": 353,
+    "category": "Flush"
+  },
+  {
+    "prime": "424473",
+    "rank": 354,
+    "category": "Flush"
+  },
+  {
+    "prime": "282982",
+    "rank": 355,
+    "category": "Flush"
+  },
+  {
+    "prime": "303195",
+    "rank": 356,
+    "category": "Flush"
+  },
+  {
+    "prime": "202130",
+    "rank": 357,
+    "category": "Flush"
+  },
+  {
+    "prime": "121278",
+    "rank": 358,
+    "category": "Flush"
+  },
+  {
+    "prime": "1190189",
+    "rank": 359,
+    "category": "Flush"
+  },
+  {
+    "prime": "850135",
+    "rank": 360,
+    "category": "Flush"
+  },
+  {
+    "prime": "510081",
+    "rank": 361,
+    "category": "Flush"
+  },
+  {
+    "prime": "340054",
+    "rank": 362,
+    "category": "Flush"
+  },
+  {
+    "prime": "540995",
+    "rank": 363,
+    "category": "Flush"
+  },
+  {
+    "prime": "324597",
+    "rank": 364,
+    "category": "Flush"
+  },
+  {
+    "prime": "216398",
+    "rank": 365,
+    "category": "Flush"
+  },
+  {
+    "prime": "231855",
+    "rank": 366,
+    "category": "Flush"
+  },
+  {
+    "prime": "154570",
+    "rank": 367,
+    "category": "Flush"
+  },
+  {
+    "prime": "92742",
+    "rank": 368,
+    "category": "Flush"
+  },
+  {
+    "prime": "457765",
+    "rank": 369,
+    "category": "Flush"
+  },
+  {
+    "prime": "274659",
+    "rank": 370,
+    "category": "Flush"
+  },
+  {
+    "prime": "183106",
+    "rank": 371,
+    "category": "Flush"
+  },
+  {
+    "prime": "196185",
+    "rank": 372,
+    "category": "Flush"
+  },
+  {
+    "prime": "130790",
+    "rank": 373,
+    "category": "Flush"
+  },
+  {
+    "prime": "78474",
+    "rank": 374,
+    "category": "Flush"
+  },
+  {
+    "prime": "124845",
+    "rank": 375,
+    "category": "Flush"
+  },
+  {
+    "prime": "83230",
+    "rank": 376,
+    "category": "Flush"
+  },
+  {
+    "prime": "49938",
+    "rank": 377,
+    "category": "Flush"
+  },
+  {
+    "prime": "35670",
+    "rank": 378,
+    "category": "Flush"
+  },
+  {
+    "prime": "3959657",
+    "rank": 379,
+    "category": "Flush"
+  },
+  {
+    "prime": "3350479",
+    "rank": 380,
+    "category": "Flush"
+  },
+  {
+    "prime": "2132123",
+    "rank": 381,
+    "category": "Flush"
+  },
+  {
+    "prime": "1522945",
+    "rank": 382,
+    "category": "Flush"
+  },
+  {
+    "prime": "913767",
+    "rank": 383,
+    "category": "Flush"
+  },
+  {
+    "prime": "609178",
+    "rank": 384,
+    "category": "Flush"
+  },
+  {
+    "prime": "2562131",
+    "rank": 385,
+    "category": "Flush"
+  },
+  {
+    "prime": "1630447",
+    "rank": 386,
+    "category": "Flush"
+  },
+  {
+    "prime": "1164605",
+    "rank": 387,
+    "category": "Flush"
+  },
+  {
+    "prime": "698763",
+    "rank": 388,
+    "category": "Flush"
+  },
+  {
+    "prime": "465842",
+    "rank": 389,
+    "category": "Flush"
+  },
+  {
+    "prime": "1379609",
+    "rank": 390,
+    "category": "Flush"
+  },
+  {
+    "prime": "985435",
+    "rank": 391,
+    "category": "Flush"
+  },
+  {
+    "prime": "591261",
+    "rank": 392,
+    "category": "Flush"
+  },
+  {
+    "prime": "394174",
+    "rank": 393,
+    "category": "Flush"
+  },
+  {
+    "prime": "627095",
+    "rank": 394,
+    "category": "Flush"
+  },
+  {
+    "prime": "376257",
+    "rank": 395,
+    "category": "Flush"
+  },
+  {
+    "prime": "250838",
+    "rank": 396,
+    "category": "Flush"
+  },
+  {
+    "prime": "268755",
+    "rank": 397,
+    "category": "Flush"
+  },
+  {
+    "prime": "179170",
+    "rank": 398,
+    "category": "Flush"
+  },
+  {
+    "prime": "107502",
+    "rank": 399,
+    "category": "Flush"
+  },
+  {
+    "prime": "2292433",
+    "rank": 400,
+    "category": "Flush"
+  },
+  {
+    "prime": "1458821",
+    "rank": 401,
+    "category": "Flush"
+  },
+  {
+    "prime": "1042015",
+    "rank": 402,
+    "category": "Flush"
+  },
+  {
+    "prime": "625209",
+    "rank": 403,
+    "category": "Flush"
+  },
+  {
+    "prime": "416806",
+    "rank": 404,
+    "category": "Flush"
+  },
+  {
+    "prime": "1234387",
+    "rank": 405,
+    "category": "Flush"
+  },
+  {
+    "prime": "881705",
+    "rank": 406,
+    "category": "Flush"
+  },
+  {
+    "prime": "529023",
+    "rank": 407,
+    "category": "Flush"
+  },
+  {
+    "prime": "352682",
+    "rank": 408,
+    "category": "Flush"
+  },
+  {
+    "prime": "561085",
+    "rank": 409,
+    "category": "Flush"
+  },
+  {
+    "prime": "336651",
+    "rank": 410,
+    "category": "Flush"
+  },
+  {
+    "prime": "224434",
+    "rank": 411,
+    "category": "Flush"
+  },
+  {
+    "prime": "240465",
+    "rank": 412,
+    "category": "Flush"
+  },
+  {
+    "prime": "160310",
+    "rank": 413,
+    "category": "Flush"
+  },
+  {
+    "prime": "96186",
+    "rank": 414,
+    "category": "Flush"
+  },
+  {
+    "prime": "943943",
+    "rank": 415,
+    "category": "Flush"
+  },
+  {
+    "prime": "674245",
+    "rank": 416,
+    "category": "Flush"
+  },
+  {
+    "prime": "404547",
+    "rank": 417,
+    "category": "Flush"
+  },
+  {
+    "prime": "269698",
+    "rank": 418,
+    "category": "Flush"
+  },
+  {
+    "prime": "429065",
+    "rank": 419,
+    "category": "Flush"
+  },
+  {
+    "prime": "257439",
+    "rank": 420,
+    "category": "Flush"
+  },
+  {
+    "prime": "171626",
+    "rank": 421,
+    "category": "Flush"
+  },
+  {
+    "prime": "183885",
+    "rank": 422,
+    "category": "Flush"
+  },
+  {
+    "prime": "122590",
+    "rank": 423,
+    "category": "Flush"
+  },
+  {
+    "prime": "73554",
+    "rank": 424,
+    "category": "Flush"
+  },
+  {
+    "prime": "363055",
+    "rank": 425,
+    "category": "Flush"
+  },
+  {
+    "prime": "217833",
+    "rank": 426,
+    "category": "Flush"
+  },
+  {
+    "prime": "145222",
+    "rank": 427,
+    "category": "Flush"
+  },
+  {
+    "prime": "155595",
+    "rank": 428,
+    "category": "Flush"
+  },
+  {
+    "prime": "103730",
+    "rank": 429,
+    "category": "Flush"
+  },
+  {
+    "prime": "62238",
+    "rank": 430,
+    "category": "Flush"
+  },
+  {
+    "prime": "99015",
+    "rank": 431,
+    "category": "Flush"
+  },
+  {
+    "prime": "66010",
+    "rank": 432,
+    "category": "Flush"
+  },
+  {
+    "prime": "39606",
+    "rank": 433,
+    "category": "Flush"
+  },
+  {
+    "prime": "28290",
+    "rank": 434,
+    "category": "Flush"
+  },
+  {
+    "prime": "1893749",
+    "rank": 435,
+    "category": "Flush"
+  },
+  {
+    "prime": "1205113",
+    "rank": 436,
+    "category": "Flush"
+  },
+  {
+    "prime": "860795",
+    "rank": 437,
+    "category": "Flush"
+  },
+  {
+    "prime": "516477",
+    "rank": 438,
+    "category": "Flush"
+  },
+  {
+    "prime": "344318",
+    "rank": 439,
+    "category": "Flush"
+  },
+  {
+    "prime": "1019711",
+    "rank": 440,
+    "category": "Flush"
+  },
+  {
+    "prime": "728365",
+    "rank": 441,
+    "category": "Flush"
+  },
+  {
+    "prime": "437019",
+    "rank": 442,
+    "category": "Flush"
+  },
+  {
+    "prime": "291346",
+    "rank": 443,
+    "category": "Flush"
+  },
+  {
+    "prime": "463505",
+    "rank": 444,
+    "category": "Flush"
+  },
+  {
+    "prime": "278103",
+    "rank": 445,
+    "category": "Flush"
+  },
+  {
+    "prime": "185402",
+    "rank": 446,
+    "category": "Flush"
+  },
+  {
+    "prime": "198645",
+    "rank": 447,
+    "category": "Flush"
+  },
+  {
+    "prime": "132430",
+    "rank": 448,
+    "category": "Flush"
+  },
+  {
+    "prime": "79458",
+    "rank": 449,
+    "category": "Flush"
+  },
+  {
+    "prime": "779779",
+    "rank": 450,
+    "category": "Flush"
+  },
+  {
+    "prime": "556985",
+    "rank": 451,
+    "category": "Flush"
+  },
+  {
+    "prime": "334191",
+    "rank": 452,
+    "category": "Flush"
+  },
+  {
+    "prime": "222794",
+    "rank": 453,
+    "category": "Flush"
+  },
+  {
+    "prime": "354445",
+    "rank": 454,
+    "category": "Flush"
+  },
+  {
+    "prime": "212667",
+    "rank": 455,
+    "category": "Flush"
+  },
+  {
+    "prime": "141778",
+    "rank": 456,
+    "category": "Flush"
+  },
+  {
+    "prime": "151905",
+    "rank": 457,
+    "category": "Flush"
+  },
+  {
+    "prime": "101270",
+    "rank": 458,
+    "category": "Flush"
+  },
+  {
+    "prime": "60762",
+    "rank": 459,
+    "category": "Flush"
+  },
+  {
+    "prime": "299915",
+    "rank": 460,
+    "category": "Flush"
+  },
+  {
+    "prime": "179949",
+    "rank": 461,
+    "category": "Flush"
+  },
+  {
+    "prime": "119966",
+    "rank": 462,
+    "category": "Flush"
+  },
+  {
+    "prime": "128535",
+    "rank": 463,
+    "category": "Flush"
+  },
+  {
+    "prime": "85690",
+    "rank": 464,
+    "category": "Flush"
+  },
+  {
+    "prime": "51414",
+    "rank": 465,
+    "category": "Flush"
+  },
+  {
+    "prime": "81795",
+    "rank": 466,
+    "category": "Flush"
+  },
+  {
+    "prime": "54530",
+    "rank": 467,
+    "category": "Flush"
+  },
+  {
+    "prime": "32718",
+    "rank": 468,
+    "category": "Flush"
+  },
+  {
+    "prime": "23370",
+    "rank": 469,
+    "category": "Flush"
+  },
+  {
+    "prime": "697697",
+    "rank": 470,
+    "category": "Flush"
+  },
+  {
+    "prime": "498355",
+    "rank": 471,
+    "category": "Flush"
+  },
+  {
+    "prime": "299013",
+    "rank": 472,
+    "category": "Flush"
+  },
+  {
+    "prime": "199342",
+    "rank": 473,
+    "category": "Flush"
+  },
+  {
+    "prime": "317135",
+    "rank": 474,
+    "category": "Flush"
+  },
+  {
+    "prime": "190281",
+    "rank": 475,
+    "category": "Flush"
+  },
+  {
+    "prime": "126854",
+    "rank": 476,
+    "category": "Flush"
+  },
+  {
+    "prime": "135915",
+    "rank": 477,
+    "category": "Flush"
+  },
+  {
+    "prime": "90610",
+    "rank": 478,
+    "category": "Flush"
+  },
+  {
+    "prime": "54366",
+    "rank": 479,
+    "category": "Flush"
+  },
+  {
+    "prime": "268345",
+    "rank": 480,
+    "category": "Flush"
+  },
+  {
+    "prime": "161007",
+    "rank": 481,
+    "category": "Flush"
+  },
+  {
+    "prime": "107338",
+    "rank": 482,
+    "category": "Flush"
+  },
+  {
+    "prime": "115005",
+    "rank": 483,
+    "category": "Flush"
+  },
+  {
+    "prime": "76670",
+    "rank": 484,
+    "category": "Flush"
+  },
+  {
+    "prime": "46002",
+    "rank": 485,
+    "category": "Flush"
+  },
+  {
+    "prime": "73185",
+    "rank": 486,
+    "category": "Flush"
+  },
+  {
+    "prime": "48790",
+    "rank": 487,
+    "category": "Flush"
+  },
+  {
+    "prime": "29274",
+    "rank": 488,
+    "category": "Flush"
+  },
+  {
+    "prime": "20910",
+    "rank": 489,
+    "category": "Flush"
+  },
+  {
+    "prime": "205205",
+    "rank": 490,
+    "category": "Flush"
+  },
+  {
+    "prime": "123123",
+    "rank": 491,
+    "category": "Flush"
+  },
+  {
+    "prime": "82082",
+    "rank": 492,
+    "category": "Flush"
+  },
+  {
+    "prime": "87945",
+    "rank": 493,
+    "category": "Flush"
+  },
+  {
+    "prime": "58630",
+    "rank": 494,
+    "category": "Flush"
+  },
+  {
+    "prime": "35178",
+    "rank": 495,
+    "category": "Flush"
+  },
+  {
+    "prime": "55965",
+    "rank": 496,
+    "category": "Flush"
+  },
+  {
+    "prime": "37310",
+    "rank": 497,
+    "category": "Flush"
+  },
+  {
+    "prime": "22386",
+    "rank": 498,
+    "category": "Flush"
+  },
+  {
+    "prime": "15990",
+    "rank": 499,
+    "category": "Flush"
+  },
+  {
+    "prime": "47355",
+    "rank": 500,
+    "category": "Flush"
+  },
+  {
+    "prime": "31570",
+    "rank": 501,
+    "category": "Flush"
+  },
+  {
+    "prime": "18942",
+    "rank": 502,
+    "category": "Flush"
+  },
+  {
+    "prime": "13530",
+    "rank": 503,
+    "category": "Flush"
+  },
+  {
+    "prime": "13005833",
+    "rank": 504,
+    "category": "Flush"
+  },
+  {
+    "prime": "9945637",
+    "rank": 505,
+    "category": "Flush"
+  },
+  {
+    "prime": "8415539",
+    "rank": 506,
+    "category": "Flush"
+  },
+  {
+    "prime": "5355343",
+    "rank": 507,
+    "category": "Flush"
+  },
+  {
+    "prime": "3825245",
+    "rank": 508,
+    "category": "Flush"
+  },
+  {
+    "prime": "2295147",
+    "rank": 509,
+    "category": "Flush"
+  },
+  {
+    "prime": "1530098",
+    "rank": 510,
+    "category": "Flush"
+  },
+  {
+    "prime": "10743949",
+    "rank": 511,
+    "category": "Flush"
+  },
+  {
+    "prime": "8215961",
+    "rank": 512,
+    "category": "Flush"
+  },
+  {
+    "prime": "6951967",
+    "rank": 513,
+    "category": "Flush"
+  },
+  {
+    "prime": "4423979",
+    "rank": 514,
+    "category": "Flush"
+  },
+  {
+    "prime": "3159985",
+    "rank": 515,
+    "category": "Flush"
+  },
+  {
+    "prime": "1895991",
+    "rank": 516,
+    "category": "Flush"
+  },
+  {
+    "prime": "1263994",
+    "rank": 517,
+    "category": "Flush"
+  },
+  {
+    "prime": "7351123",
+    "rank": 518,
+    "category": "Flush"
+  },
+  {
+    "prime": "6220181",
+    "rank": 519,
+    "category": "Flush"
+  },
+  {
+    "prime": "3958297",
+    "rank": 520,
+    "category": "Flush"
+  },
+  {
+    "prime": "2827355",
+    "rank": 521,
+    "category": "Flush"
+  },
+  {
+    "prime": "1696413",
+    "rank": 522,
+    "category": "Flush"
+  },
+  {
+    "prime": "1130942",
+    "rank": 523,
+    "category": "Flush"
+  },
+  {
+    "prime": "4756609",
+    "rank": 524,
+    "category": "Flush"
+  },
+  {
+    "prime": "3026933",
+    "rank": 525,
+    "category": "Flush"
+  },
+  {
+    "prime": "2162095",
+    "rank": 526,
+    "category": "Flush"
+  },
+  {
+    "prime": "1297257",
+    "rank": 527,
+    "category": "Flush"
+  },
+  {
+    "prime": "864838",
+    "rank": 528,
+    "category": "Flush"
+  },
+  {
+    "prime": "2561251",
+    "rank": 529,
+    "category": "Flush"
+  },
+  {
+    "prime": "1829465",
+    "rank": 530,
+    "category": "Flush"
+  },
+  {
+    "prime": "1097679",
+    "rank": 531,
+    "category": "Flush"
+  },
+  {
+    "prime": "731786",
+    "rank": 532,
+    "category": "Flush"
+  },
+  {
+    "prime": "1164205",
+    "rank": 533,
+    "category": "Flush"
+  },
+  {
+    "prime": "698523",
+    "rank": 534,
+    "category": "Flush"
+  },
+  {
+    "prime": "465682",
+    "rank": 535,
+    "category": "Flush"
+  },
+  {
+    "prime": "498945",
+    "rank": 536,
+    "category": "Flush"
+  },
+  {
+    "prime": "332630",
+    "rank": 537,
+    "category": "Flush"
+  },
+  {
+    "prime": "199578",
+    "rank": 538,
+    "category": "Flush"
+  },
+  {
+    "prime": "8521063",
+    "rank": 539,
+    "category": "Flush"
+  },
+  {
+    "prime": "6516107",
+    "rank": 540,
+    "category": "Flush"
+  },
+  {
+    "prime": "5513629",
+    "rank": 541,
+    "category": "Flush"
+  },
+  {
+    "prime": "3508673",
+    "rank": 542,
+    "category": "Flush"
+  },
+  {
+    "prime": "2506195",
+    "rank": 543,
+    "category": "Flush"
+  },
+  {
+    "prime": "1503717",
+    "rank": 544,
+    "category": "Flush"
+  },
+  {
+    "prime": "1002478",
+    "rank": 545,
+    "category": "Flush"
+  },
+  {
+    "prime": "5830201",
+    "rank": 546,
+    "category": "Flush"
+  },
+  {
+    "prime": "4933247",
+    "rank": 547,
+    "category": "Flush"
+  },
+  {
+    "prime": "3139339",
+    "rank": 548,
+    "category": "Flush"
+  },
+  {
+    "prime": "2242385",
+    "rank": 549,
+    "category": "Flush"
+  },
+  {
+    "prime": "1345431",
+    "rank": 550,
+    "category": "Flush"
+  },
+  {
+    "prime": "896954",
+    "rank": 551,
+    "category": "Flush"
+  },
+  {
+    "prime": "3772483",
+    "rank": 552,
+    "category": "Flush"
+  },
+  {
+    "prime": "2400671",
+    "rank": 553,
+    "category": "Flush"
+  },
+  {
+    "prime": "1714765",
+    "rank": 554,
+    "category": "Flush"
+  },
+  {
+    "prime": "1028859",
+    "rank": 555,
+    "category": "Flush"
+  },
+  {
+    "prime": "685906",
+    "rank": 556,
+    "category": "Flush"
+  },
+  {
+    "prime": "2031337",
+    "rank": 557,
+    "category": "Flush"
+  },
+  {
+    "prime": "1450955",
+    "rank": 558,
+    "category": "Flush"
+  },
+  {
+    "prime": "870573",
+    "rank": 559,
+    "category": "Flush"
+  },
+  {
+    "prime": "580382",
+    "rank": 560,
+    "category": "Flush"
+  },
+  {
+    "prime": "923335",
+    "rank": 561,
+    "category": "Flush"
+  },
+  {
+    "prime": "554001",
+    "rank": 562,
+    "category": "Flush"
+  },
+  {
+    "prime": "369334",
+    "rank": 563,
+    "category": "Flush"
+  },
+  {
+    "prime": "395715",
+    "rank": 564,
+    "category": "Flush"
+  },
+  {
+    "prime": "263810",
+    "rank": 565,
+    "category": "Flush"
+  },
+  {
+    "prime": "158286",
+    "rank": 566,
+    "category": "Flush"
+  },
+  {
+    "prime": "4816253",
+    "rank": 567,
+    "category": "Flush"
+  },
+  {
+    "prime": "4075291",
+    "rank": 568,
+    "category": "Flush"
+  },
+  {
+    "prime": "2593367",
+    "rank": 569,
+    "category": "Flush"
+  },
+  {
+    "prime": "1852405",
+    "rank": 570,
+    "category": "Flush"
+  },
+  {
+    "prime": "1111443",
+    "rank": 571,
+    "category": "Flush"
+  },
+  {
+    "prime": "740962",
+    "rank": 572,
+    "category": "Flush"
+  },
+  {
+    "prime": "3116399",
+    "rank": 573,
+    "category": "Flush"
+  },
+  {
+    "prime": "1983163",
+    "rank": 574,
+    "category": "Flush"
+  },
+  {
+    "prime": "1416545",
+    "rank": 575,
+    "category": "Flush"
+  },
+  {
+    "prime": "849927",
+    "rank": 576,
+    "category": "Flush"
+  },
+  {
+    "prime": "566618",
+    "rank": 577,
+    "category": "Flush"
+  },
+  {
+    "prime": "1678061",
+    "rank": 578,
+    "category": "Flush"
+  },
+  {
+    "prime": "1198615",
+    "rank": 579,
+    "category": "Flush"
+  },
+  {
+    "prime": "719169",
+    "rank": 580,
+    "category": "Flush"
+  },
+  {
+    "prime": "479446",
+    "rank": 581,
+    "category": "Flush"
+  },
+  {
+    "prime": "762755",
+    "rank": 582,
+    "category": "Flush"
+  },
+  {
+    "prime": "457653",
+    "rank": 583,
+    "category": "Flush"
+  },
+  {
+    "prime": "305102",
+    "rank": 584,
+    "category": "Flush"
+  },
+  {
+    "prime": "326895",
+    "rank": 585,
+    "category": "Flush"
+  },
+  {
+    "prime": "217930",
+    "rank": 586,
+    "category": "Flush"
+  },
+  {
+    "prime": "130758",
+    "rank": 587,
+    "category": "Flush"
+  },
+  {
+    "prime": "2788357",
+    "rank": 588,
+    "category": "Flush"
+  },
+  {
+    "prime": "1774409",
+    "rank": 589,
+    "category": "Flush"
+  },
+  {
+    "prime": "1267435",
+    "rank": 590,
+    "category": "Flush"
+  },
+  {
+    "prime": "760461",
+    "rank": 591,
+    "category": "Flush"
+  },
+  {
+    "prime": "506974",
+    "rank": 592,
+    "category": "Flush"
+  },
+  {
+    "prime": "1501423",
+    "rank": 593,
+    "category": "Flush"
+  },
+  {
+    "prime": "1072445",
+    "rank": 594,
+    "category": "Flush"
+  },
+  {
+    "prime": "643467",
+    "rank": 595,
+    "category": "Flush"
+  },
+  {
+    "prime": "428978",
+    "rank": 596,
+    "category": "Flush"
+  },
+  {
+    "prime": "682465",
+    "rank": 597,
+    "category": "Flush"
+  },
+  {
+    "prime": "409479",
+    "rank": 598,
+    "category": "Flush"
+  },
+  {
+    "prime": "272986",
+    "rank": 599,
+    "category": "Flush"
+  },
+  {
+    "prime": "292485",
+    "rank": 600,
+    "category": "Flush"
+  },
+  {
+    "prime": "194990",
+    "rank": 601,
+    "category": "Flush"
+  },
+  {
+    "prime": "116994",
+    "rank": 602,
+    "category": "Flush"
+  },
+  {
+    "prime": "1148147",
+    "rank": 603,
+    "category": "Flush"
+  },
+  {
+    "prime": "820105",
+    "rank": 604,
+    "category": "Flush"
+  },
+  {
+    "prime": "492063",
+    "rank": 605,
+    "category": "Flush"
+  },
+  {
+    "prime": "328042",
+    "rank": 606,
+    "category": "Flush"
+  },
+  {
+    "prime": "521885",
+    "rank": 607,
+    "category": "Flush"
+  },
+  {
+    "prime": "313131",
+    "rank": 608,
+    "category": "Flush"
+  },
+  {
+    "prime": "208754",
+    "rank": 609,
+    "category": "Flush"
+  },
+  {
+    "prime": "223665",
+    "rank": 610,
+    "category": "Flush"
+  },
+  {
+    "prime": "149110",
+    "rank": 611,
+    "category": "Flush"
+  },
+  {
+    "prime": "89466",
+    "rank": 612,
+    "category": "Flush"
+  },
+  {
+    "prime": "441595",
+    "rank": 613,
+    "category": "Flush"
+  },
+  {
+    "prime": "264957",
+    "rank": 614,
+    "category": "Flush"
+  },
+  {
+    "prime": "176638",
+    "rank": 615,
+    "category": "Flush"
+  },
+  {
+    "prime": "189255",
+    "rank": 616,
+    "category": "Flush"
+  },
+  {
+    "prime": "126170",
+    "rank": 617,
+    "category": "Flush"
+  },
+  {
+    "prime": "75702",
+    "rank": 618,
+    "category": "Flush"
+  },
+  {
+    "prime": "120435",
+    "rank": 619,
+    "category": "Flush"
+  },
+  {
+    "prime": "80290",
+    "rank": 620,
+    "category": "Flush"
+  },
+  {
+    "prime": "48174",
+    "rank": 621,
+    "category": "Flush"
+  },
+  {
+    "prime": "34410",
+    "rank": 622,
+    "category": "Flush"
+  },
+  {
+    "prime": "7971317",
+    "rank": 623,
+    "category": "Flush"
+  },
+  {
+    "prime": "6095713",
+    "rank": 624,
+    "category": "Flush"
+  },
+  {
+    "prime": "5157911",
+    "rank": 625,
+    "category": "Flush"
+  },
+  {
+    "prime": "3282307",
+    "rank": 626,
+    "category": "Flush"
+  },
+  {
+    "prime": "2344505",
+    "rank": 627,
+    "category": "Flush"
+  },
+  {
+    "prime": "1406703",
+    "rank": 628,
+    "category": "Flush"
+  },
+  {
+    "prime": "937802",
+    "rank": 629,
+    "category": "Flush"
+  },
+  {
+    "prime": "5454059",
+    "rank": 630,
+    "category": "Flush"
+  },
+  {
+    "prime": "4614973",
+    "rank": 631,
+    "category": "Flush"
+  },
+  {
+    "prime": "2936801",
+    "rank": 632,
+    "category": "Flush"
+  },
+  {
+    "prime": "2097715",
+    "rank": 633,
+    "category": "Flush"
+  },
+  {
+    "prime": "1258629",
+    "rank": 634,
+    "category": "Flush"
+  },
+  {
+    "prime": "839086",
+    "rank": 635,
+    "category": "Flush"
+  },
+  {
+    "prime": "3529097",
+    "rank": 636,
+    "category": "Flush"
+  },
+  {
+    "prime": "2245789",
+    "rank": 637,
+    "category": "Flush"
+  },
+  {
+    "prime": "1604135",
+    "rank": 638,
+    "category": "Flush"
+  },
+  {
+    "prime": "962481",
+    "rank": 639,
+    "category": "Flush"
+  },
+  {
+    "prime": "641654",
+    "rank": 640,
+    "category": "Flush"
+  },
+  {
+    "prime": "1900283",
+    "rank": 641,
+    "category": "Flush"
+  },
+  {
+    "prime": "1357345",
+    "rank": 642,
+    "category": "Flush"
+  },
+  {
+    "prime": "814407",
+    "rank": 643,
+    "category": "Flush"
+  },
+  {
+    "prime": "542938",
+    "rank": 644,
+    "category": "Flush"
+  },
+  {
+    "prime": "863765",
+    "rank": 645,
+    "category": "Flush"
+  },
+  {
+    "prime": "518259",
+    "rank": 646,
+    "category": "Flush"
+  },
+  {
+    "prime": "345506",
+    "rank": 647,
+    "category": "Flush"
+  },
+  {
+    "prime": "370185",
+    "rank": 648,
+    "category": "Flush"
+  },
+  {
+    "prime": "246790",
+    "rank": 649,
+    "category": "Flush"
+  },
+  {
+    "prime": "148074",
+    "rank": 650,
+    "category": "Flush"
+  },
+  {
+    "prime": "4505527",
+    "rank": 651,
+    "category": "Flush"
+  },
+  {
+    "prime": "3812369",
+    "rank": 652,
+    "category": "Flush"
+  },
+  {
+    "prime": "2426053",
+    "rank": 653,
+    "category": "Flush"
+  },
+  {
+    "prime": "1732895",
+    "rank": 654,
+    "category": "Flush"
+  },
+  {
+    "prime": "1039737",
+    "rank": 655,
+    "category": "Flush"
+  },
+  {
+    "prime": "693158",
+    "rank": 656,
+    "category": "Flush"
+  },
+  {
+    "prime": "2915341",
+    "rank": 657,
+    "category": "Flush"
+  },
+  {
+    "prime": "1855217",
+    "rank": 658,
+    "category": "Flush"
+  },
+  {
+    "prime": "1325155",
+    "rank": 659,
+    "category": "Flush"
+  },
+  {
+    "prime": "795093",
+    "rank": 660,
+    "category": "Flush"
+  },
+  {
+    "prime": "530062",
+    "rank": 661,
+    "category": "Flush"
+  },
+  {
+    "prime": "1569799",
+    "rank": 662,
+    "category": "Flush"
+  },
+  {
+    "prime": "1121285",
+    "rank": 663,
+    "category": "Flush"
+  },
+  {
+    "prime": "672771",
+    "rank": 664,
+    "category": "Flush"
+  },
+  {
+    "prime": "448514",
+    "rank": 665,
+    "category": "Flush"
+  },
+  {
+    "prime": "713545",
+    "rank": 666,
+    "category": "Flush"
+  },
+  {
+    "prime": "428127",
+    "rank": 667,
+    "category": "Flush"
+  },
+  {
+    "prime": "285418",
+    "rank": 668,
+    "category": "Flush"
+  },
+  {
+    "prime": "305805",
+    "rank": 669,
+    "category": "Flush"
+  },
+  {
+    "prime": "203870",
+    "rank": 670,
+    "category": "Flush"
+  },
+  {
+    "prime": "122322",
+    "rank": 671,
+    "category": "Flush"
+  },
+  {
+    "prime": "2608463",
+    "rank": 672,
+    "category": "Flush"
+  },
+  {
+    "prime": "1659931",
+    "rank": 673,
+    "category": "Flush"
+  },
+  {
+    "prime": "1185665",
+    "rank": 674,
+    "category": "Flush"
+  },
+  {
+    "prime": "711399",
+    "rank": 675,
+    "category": "Flush"
+  },
+  {
+    "prime": "474266",
+    "rank": 676,
+    "category": "Flush"
+  },
+  {
+    "prime": "1404557",
+    "rank": 677,
+    "category": "Flush"
+  },
+  {
+    "prime": "1003255",
+    "rank": 678,
+    "category": "Flush"
+  },
+  {
+    "prime": "601953",
+    "rank": 679,
+    "category": "Flush"
+  },
+  {
+    "prime": "401302",
+    "rank": 680,
+    "category": "Flush"
+  },
+  {
+    "prime": "638435",
+    "rank": 681,
+    "category": "Flush"
+  },
+  {
+    "prime": "383061",
+    "rank": 682,
+    "category": "Flush"
+  },
+  {
+    "prime": "255374",
+    "rank": 683,
+    "category": "Flush"
+  },
+  {
+    "prime": "273615",
+    "rank": 684,
+    "category": "Flush"
+  },
+  {
+    "prime": "182410",
+    "rank": 685,
+    "category": "Flush"
+  },
+  {
+    "prime": "109446",
+    "rank": 686,
+    "category": "Flush"
+  },
+  {
+    "prime": "1074073",
+    "rank": 687,
+    "category": "Flush"
+  },
+  {
+    "prime": "767195",
+    "rank": 688,
+    "category": "Flush"
+  },
+  {
+    "prime": "460317",
+    "rank": 689,
+    "category": "Flush"
+  },
+  {
+    "prime": "306878",
+    "rank": 690,
+    "category": "Flush"
+  },
+  {
+    "prime": "488215",
+    "rank": 691,
+    "category": "Flush"
+  },
+  {
+    "prime": "292929",
+    "rank": 692,
+    "category": "Flush"
+  },
+  {
+    "prime": "195286",
+    "rank": 693,
+    "category": "Flush"
+  },
+  {
+    "prime": "209235",
+    "rank": 694,
+    "category": "Flush"
+  },
+  {
+    "prime": "139490",
+    "rank": 695,
+    "category": "Flush"
+  },
+  {
+    "prime": "83694",
+    "rank": 696,
+    "category": "Flush"
+  },
+  {
+    "prime": "413105",
+    "rank": 697,
+    "category": "Flush"
+  },
+  {
+    "prime": "247863",
+    "rank": 698,
+    "category": "Flush"
+  },
+  {
+    "prime": "165242",
+    "rank": 699,
+    "category": "Flush"
+  },
+  {
+    "prime": "177045",
+    "rank": 700,
+    "category": "Flush"
+  },
+  {
+    "prime": "118030",
+    "rank": 701,
+    "category": "Flush"
+  },
+  {
+    "prime": "70818",
+    "rank": 702,
+    "category": "Flush"
+  },
+  {
+    "prime": "112665",
+    "rank": 703,
+    "category": "Flush"
+  },
+  {
+    "prime": "75110",
+    "rank": 704,
+    "category": "Flush"
+  },
+  {
+    "prime": "45066",
+    "rank": 705,
+    "category": "Flush"
+  },
+  {
+    "prime": "32190",
+    "rank": 706,
+    "category": "Flush"
+  },
+  {
+    "prime": "3573349",
+    "rank": 707,
+    "category": "Flush"
+  },
+  {
+    "prime": "3023603",
+    "rank": 708,
+    "category": "Flush"
+  },
+  {
+    "prime": "1924111",
+    "rank": 709,
+    "category": "Flush"
+  },
+  {
+    "prime": "1374365",
+    "rank": 710,
+    "category": "Flush"
+  },
+  {
+    "prime": "824619",
+    "rank": 711,
+    "category": "Flush"
+  },
+  {
+    "prime": "549746",
+    "rank": 712,
+    "category": "Flush"
+  },
+  {
+    "prime": "2312167",
+    "rank": 713,
+    "category": "Flush"
+  },
+  {
+    "prime": "1471379",
+    "rank": 714,
+    "category": "Flush"
+  },
+  {
+    "prime": "1050985",
+    "rank": 715,
+    "category": "Flush"
+  },
+  {
+    "prime": "630591",
+    "rank": 716,
+    "category": "Flush"
+  },
+  {
+    "prime": "420394",
+    "rank": 717,
+    "category": "Flush"
+  },
+  {
+    "prime": "1245013",
+    "rank": 718,
+    "category": "Flush"
+  },
+  {
+    "prime": "889295",
+    "rank": 719,
+    "category": "Flush"
+  },
+  {
+    "prime": "533577",
+    "rank": 720,
+    "category": "Flush"
+  },
+  {
+    "prime": "355718",
+    "rank": 721,
+    "category": "Flush"
+  },
+  {
+    "prime": "565915",
+    "rank": 722,
+    "category": "Flush"
+  },
+  {
+    "prime": "339549",
+    "rank": 723,
+    "category": "Flush"
+  },
+  {
+    "prime": "226366",
+    "rank": 724,
+    "category": "Flush"
+  },
+  {
+    "prime": "242535",
+    "rank": 725,
+    "category": "Flush"
+  },
+  {
+    "prime": "161690",
+    "rank": 726,
+    "category": "Flush"
+  },
+  {
+    "prime": "97014",
+    "rank": 727,
+    "category": "Flush"
+  },
+  {
+    "prime": "2068781",
+    "rank": 728,
+    "category": "Flush"
+  },
+  {
+    "prime": "1316497",
+    "rank": 729,
+    "category": "Flush"
+  },
+  {
+    "prime": "940355",
+    "rank": 730,
+    "category": "Flush"
+  },
+  {
+    "prime": "564213",
+    "rank": 731,
+    "category": "Flush"
+  },
+  {
+    "prime": "376142",
+    "rank": 732,
+    "category": "Flush"
+  },
+  {
+    "prime": "1113959",
+    "rank": 733,
+    "category": "Flush"
+  },
+  {
+    "prime": "795685",
+    "rank": 734,
+    "category": "Flush"
+  },
+  {
+    "prime": "477411",
+    "rank": 735,
+    "category": "Flush"
+  },
+  {
+    "prime": "318274",
+    "rank": 736,
+    "category": "Flush"
+  },
+  {
+    "prime": "506345",
+    "rank": 737,
+    "category": "Flush"
+  },
+  {
+    "prime": "303807",
+    "rank": 738,
+    "category": "Flush"
+  },
+  {
+    "prime": "202538",
+    "rank": 739,
+    "category": "Flush"
+  },
+  {
+    "prime": "217005",
+    "rank": 740,
+    "category": "Flush"
+  },
+  {
+    "prime": "144670",
+    "rank": 741,
+    "category": "Flush"
+  },
+  {
+    "prime": "86802",
+    "rank": 742,
+    "category": "Flush"
+  },
+  {
+    "prime": "851851",
+    "rank": 743,
+    "category": "Flush"
+  },
+  {
+    "prime": "608465",
+    "rank": 744,
+    "category": "Flush"
+  },
+  {
+    "prime": "365079",
+    "rank": 745,
+    "category": "Flush"
+  },
+  {
+    "prime": "243386",
+    "rank": 746,
+    "category": "Flush"
+  },
+  {
+    "prime": "387205",
+    "rank": 747,
+    "category": "Flush"
+  },
+  {
+    "prime": "232323",
+    "rank": 748,
+    "category": "Flush"
+  },
+  {
+    "prime": "154882",
+    "rank": 749,
+    "category": "Flush"
+  },
+  {
+    "prime": "165945",
+    "rank": 750,
+    "category": "Flush"
+  },
+  {
+    "prime": "110630",
+    "rank": 751,
+    "category": "Flush"
+  },
+  {
+    "prime": "66378",
+    "rank": 752,
+    "category": "Flush"
+  },
+  {
+    "prime": "327635",
+    "rank": 753,
+    "category": "Flush"
+  },
+  {
+    "prime": "196581",
+    "rank": 754,
+    "category": "Flush"
+  },
+  {
+    "prime": "131054",
+    "rank": 755,
+    "category": "Flush"
+  },
+  {
+    "prime": "140415",
+    "rank": 756,
+    "category": "Flush"
+  },
+  {
+    "prime": "93610",
+    "rank": 757,
+    "category": "Flush"
+  },
+  {
+    "prime": "56166",
+    "rank": 758,
+    "category": "Flush"
+  },
+  {
+    "prime": "89355",
+    "rank": 759,
+    "category": "Flush"
+  },
+  {
+    "prime": "59570",
+    "rank": 760,
+    "category": "Flush"
+  },
+  {
+    "prime": "35742",
+    "rank": 761,
+    "category": "Flush"
+  },
+  {
+    "prime": "25530",
+    "rank": 762,
+    "category": "Flush"
+  },
+  {
+    "prime": "1708993",
+    "rank": 763,
+    "category": "Flush"
+  },
+  {
+    "prime": "1087541",
+    "rank": 764,
+    "category": "Flush"
+  },
+  {
+    "prime": "776815",
+    "rank": 765,
+    "category": "Flush"
+  },
+  {
+    "prime": "466089",
+    "rank": 766,
+    "category": "Flush"
+  },
+  {
+    "prime": "310726",
+    "rank": 767,
+    "category": "Flush"
+  },
+  {
+    "prime": "920227",
+    "rank": 768,
+    "category": "Flush"
+  },
+  {
+    "prime": "657305",
+    "rank": 769,
+    "category": "Flush"
+  },
+  {
+    "prime": "394383",
+    "rank": 770,
+    "category": "Flush"
+  },
+  {
+    "prime": "262922",
+    "rank": 771,
+    "category": "Flush"
+  },
+  {
+    "prime": "418285",
+    "rank": 772,
+    "category": "Flush"
+  },
+  {
+    "prime": "250971",
+    "rank": 773,
+    "category": "Flush"
+  },
+  {
+    "prime": "167314",
+    "rank": 774,
+    "category": "Flush"
+  },
+  {
+    "prime": "179265",
+    "rank": 775,
+    "category": "Flush"
+  },
+  {
+    "prime": "119510",
+    "rank": 776,
+    "category": "Flush"
+  },
+  {
+    "prime": "71706",
+    "rank": 777,
+    "category": "Flush"
+  },
+  {
+    "prime": "703703",
+    "rank": 778,
+    "category": "Flush"
+  },
+  {
+    "prime": "502645",
+    "rank": 779,
+    "category": "Flush"
+  },
+  {
+    "prime": "301587",
+    "rank": 780,
+    "category": "Flush"
+  },
+  {
+    "prime": "201058",
+    "rank": 781,
+    "category": "Flush"
+  },
+  {
+    "prime": "319865",
+    "rank": 782,
+    "category": "Flush"
+  },
+  {
+    "prime": "191919",
+    "rank": 783,
+    "category": "Flush"
+  },
+  {
+    "prime": "127946",
+    "rank": 784,
+    "category": "Flush"
+  },
+  {
+    "prime": "137085",
+    "rank": 785,
+    "category": "Flush"
+  },
+  {
+    "prime": "91390",
+    "rank": 786,
+    "category": "Flush"
+  },
+  {
+    "prime": "54834",
+    "rank": 787,
+    "category": "Flush"
+  },
+  {
+    "prime": "270655",
+    "rank": 788,
+    "category": "Flush"
+  },
+  {
+    "prime": "162393",
+    "rank": 789,
+    "category": "Flush"
+  },
+  {
+    "prime": "108262",
+    "rank": 790,
+    "category": "Flush"
+  },
+  {
+    "prime": "115995",
+    "rank": 791,
+    "category": "Flush"
+  },
+  {
+    "prime": "77330",
+    "rank": 792,
+    "category": "Flush"
+  },
+  {
+    "prime": "46398",
+    "rank": 793,
+    "category": "Flush"
+  },
+  {
+    "prime": "73815",
+    "rank": 794,
+    "category": "Flush"
+  },
+  {
+    "prime": "49210",
+    "rank": 795,
+    "category": "Flush"
+  },
+  {
+    "prime": "29526",
+    "rank": 796,
+    "category": "Flush"
+  },
+  {
+    "prime": "21090",
+    "rank": 797,
+    "category": "Flush"
+  },
+  {
+    "prime": "629629",
+    "rank": 798,
+    "category": "Flush"
+  },
+  {
+    "prime": "449735",
+    "rank": 799,
+    "category": "Flush"
+  },
+  {
+    "prime": "269841",
+    "rank": 800,
+    "category": "Flush"
+  },
+  {
+    "prime": "179894",
+    "rank": 801,
+    "category": "Flush"
+  },
+  {
+    "prime": "286195",
+    "rank": 802,
+    "category": "Flush"
+  },
+  {
+    "prime": "171717",
+    "rank": 803,
+    "category": "Flush"
+  },
+  {
+    "prime": "114478",
+    "rank": 804,
+    "category": "Flush"
+  },
+  {
+    "prime": "122655",
+    "rank": 805,
+    "category": "Flush"
+  },
+  {
+    "prime": "81770",
+    "rank": 806,
+    "category": "Flush"
+  },
+  {
+    "prime": "49062",
+    "rank": 807,
+    "category": "Flush"
+  },
+  {
+    "prime": "242165",
+    "rank": 808,
+    "category": "Flush"
+  },
+  {
+    "prime": "145299",
+    "rank": 809,
+    "category": "Flush"
+  },
+  {
+    "prime": "96866",
+    "rank": 810,
+    "category": "Flush"
+  },
+  {
+    "prime": "103785",
+    "rank": 811,
+    "category": "Flush"
+  },
+  {
+    "prime": "69190",
+    "rank": 812,
+    "category": "Flush"
+  },
+  {
+    "prime": "41514",
+    "rank": 813,
+    "category": "Flush"
+  },
+  {
+    "prime": "66045",
+    "rank": 814,
+    "category": "Flush"
+  },
+  {
+    "prime": "44030",
+    "rank": 815,
+    "category": "Flush"
+  },
+  {
+    "prime": "26418",
+    "rank": 816,
+    "category": "Flush"
+  },
+  {
+    "prime": "18870",
+    "rank": 817,
+    "category": "Flush"
+  },
+  {
+    "prime": "185185",
+    "rank": 818,
+    "category": "Flush"
+  },
+  {
+    "prime": "111111",
+    "rank": 819,
+    "category": "Flush"
+  },
+  {
+    "prime": "74074",
+    "rank": 820,
+    "category": "Flush"
+  },
+  {
+    "prime": "79365",
+    "rank": 821,
+    "category": "Flush"
+  },
+  {
+    "prime": "52910",
+    "rank": 822,
+    "category": "Flush"
+  },
+  {
+    "prime": "31746",
+    "rank": 823,
+    "category": "Flush"
+  },
+  {
+    "prime": "50505",
+    "rank": 824,
+    "category": "Flush"
+  },
+  {
+    "prime": "33670",
+    "rank": 825,
+    "category": "Flush"
+  },
+  {
+    "prime": "20202",
+    "rank": 826,
+    "category": "Flush"
+  },
+  {
+    "prime": "14430",
+    "rank": 827,
+    "category": "Flush"
+  },
+  {
+    "prime": "42735",
+    "rank": 828,
+    "category": "Flush"
+  },
+  {
+    "prime": "28490",
+    "rank": 829,
+    "category": "Flush"
+  },
+  {
+    "prime": "17094",
+    "rank": 830,
+    "category": "Flush"
+  },
+  {
+    "prime": "12210",
+    "rank": 831,
+    "category": "Flush"
+  },
+  {
+    "prime": "7770",
+    "rank": 832,
+    "category": "Flush"
+  },
+  {
+    "prime": "5107219",
+    "rank": 833,
+    "category": "Flush"
+  },
+  {
+    "prime": "4321493",
+    "rank": 834,
+    "category": "Flush"
+  },
+  {
+    "prime": "2750041",
+    "rank": 835,
+    "category": "Flush"
+  },
+  {
+    "prime": "1964315",
+    "rank": 836,
+    "category": "Flush"
+  },
+  {
+    "prime": "1178589",
+    "rank": 837,
+    "category": "Flush"
+  },
+  {
+    "prime": "785726",
+    "rank": 838,
+    "category": "Flush"
+  },
+  {
+    "prime": "4569617",
+    "rank": 839,
+    "category": "Flush"
+  },
+  {
+    "prime": "3866599",
+    "rank": 840,
+    "category": "Flush"
+  },
+  {
+    "prime": "2460563",
+    "rank": 841,
+    "category": "Flush"
+  },
+  {
+    "prime": "1757545",
+    "rank": 842,
+    "category": "Flush"
+  },
+  {
+    "prime": "1054527",
+    "rank": 843,
+    "category": "Flush"
+  },
+  {
+    "prime": "703018",
+    "rank": 844,
+    "category": "Flush"
+  },
+  {
+    "prime": "2956811",
+    "rank": 845,
+    "category": "Flush"
+  },
+  {
+    "prime": "1881607",
+    "rank": 846,
+    "category": "Flush"
+  },
+  {
+    "prime": "1344005",
+    "rank": 847,
+    "category": "Flush"
+  },
+  {
+    "prime": "806403",
+    "rank": 848,
+    "category": "Flush"
+  },
+  {
+    "prime": "537602",
+    "rank": 849,
+    "category": "Flush"
+  },
+  {
+    "prime": "1592129",
+    "rank": 850,
+    "category": "Flush"
+  },
+  {
+    "prime": "1137235",
+    "rank": 851,
+    "category": "Flush"
+  },
+  {
+    "prime": "682341",
+    "rank": 852,
+    "category": "Flush"
+  },
+  {
+    "prime": "454894",
+    "rank": 853,
+    "category": "Flush"
+  },
+  {
+    "prime": "723695",
+    "rank": 854,
+    "category": "Flush"
+  },
+  {
+    "prime": "434217",
+    "rank": 855,
+    "category": "Flush"
+  },
+  {
+    "prime": "289478",
+    "rank": 856,
+    "category": "Flush"
+  },
+  {
+    "prime": "310155",
+    "rank": 857,
+    "category": "Flush"
+  },
+  {
+    "prime": "206770",
+    "rank": 858,
+    "category": "Flush"
+  },
+  {
+    "prime": "124062",
+    "rank": 859,
+    "category": "Flush"
+  },
+  {
+    "prime": "3774901",
+    "rank": 860,
+    "category": "Flush"
+  },
+  {
+    "prime": "3194147",
+    "rank": 861,
+    "category": "Flush"
+  },
+  {
+    "prime": "2032639",
+    "rank": 862,
+    "category": "Flush"
+  },
+  {
+    "prime": "1451885",
+    "rank": 863,
+    "category": "Flush"
+  },
+  {
+    "prime": "871131",
+    "rank": 864,
+    "category": "Flush"
+  },
+  {
+    "prime": "580754",
+    "rank": 865,
+    "category": "Flush"
+  },
+  {
+    "prime": "2442583",
+    "rank": 866,
+    "category": "Flush"
+  },
+  {
+    "prime": "1554371",
+    "rank": 867,
+    "category": "Flush"
+  },
+  {
+    "prime": "1110265",
+    "rank": 868,
+    "category": "Flush"
+  },
+  {
+    "prime": "666159",
+    "rank": 869,
+    "category": "Flush"
+  },
+  {
+    "prime": "444106",
+    "rank": 870,
+    "category": "Flush"
+  },
+  {
+    "prime": "1315237",
+    "rank": 871,
+    "category": "Flush"
+  },
+  {
+    "prime": "939455",
+    "rank": 872,
+    "category": "Flush"
+  },
+  {
+    "prime": "563673",
+    "rank": 873,
+    "category": "Flush"
+  },
+  {
+    "prime": "375782",
+    "rank": 874,
+    "category": "Flush"
+  },
+  {
+    "prime": "597835",
+    "rank": 875,
+    "category": "Flush"
+  },
+  {
+    "prime": "358701",
+    "rank": 876,
+    "category": "Flush"
+  },
+  {
+    "prime": "239134",
+    "rank": 877,
+    "category": "Flush"
+  },
+  {
+    "prime": "256215",
+    "rank": 878,
+    "category": "Flush"
+  },
+  {
+    "prime": "170810",
+    "rank": 879,
+    "category": "Flush"
+  },
+  {
+    "prime": "102486",
+    "rank": 880,
+    "category": "Flush"
+  },
+  {
+    "prime": "2185469",
+    "rank": 881,
+    "category": "Flush"
+  },
+  {
+    "prime": "1390753",
+    "rank": 882,
+    "category": "Flush"
+  },
+  {
+    "prime": "993395",
+    "rank": 883,
+    "category": "Flush"
+  },
+  {
+    "prime": "596037",
+    "rank": 884,
+    "category": "Flush"
+  },
+  {
+    "prime": "397358",
+    "rank": 885,
+    "category": "Flush"
+  },
+  {
+    "prime": "1176791",
+    "rank": 886,
+    "category": "Flush"
+  },
+  {
+    "prime": "840565",
+    "rank": 887,
+    "category": "Flush"
+  },
+  {
+    "prime": "504339",
+    "rank": 888,
+    "category": "Flush"
+  },
+  {
+    "prime": "336226",
+    "rank": 889,
+    "category": "Flush"
+  },
+  {
+    "prime": "534905",
+    "rank": 890,
+    "category": "Flush"
+  },
+  {
+    "prime": "320943",
+    "rank": 891,
+    "category": "Flush"
+  },
+  {
+    "prime": "213962",
+    "rank": 892,
+    "category": "Flush"
+  },
+  {
+    "prime": "229245",
+    "rank": 893,
+    "category": "Flush"
+  },
+  {
+    "prime": "152830",
+    "rank": 894,
+    "category": "Flush"
+  },
+  {
+    "prime": "91698",
+    "rank": 895,
+    "category": "Flush"
+  },
+  {
+    "prime": "899899",
+    "rank": 896,
+    "category": "Flush"
+  },
+  {
+    "prime": "642785",
+    "rank": 897,
+    "category": "Flush"
+  },
+  {
+    "prime": "385671",
+    "rank": 898,
+    "category": "Flush"
+  },
+  {
+    "prime": "257114",
+    "rank": 899,
+    "category": "Flush"
+  },
+  {
+    "prime": "409045",
+    "rank": 900,
+    "category": "Flush"
+  },
+  {
+    "prime": "245427",
+    "rank": 901,
+    "category": "Flush"
+  },
+  {
+    "prime": "163618",
+    "rank": 902,
+    "category": "Flush"
+  },
+  {
+    "prime": "175305",
+    "rank": 903,
+    "category": "Flush"
+  },
+  {
+    "prime": "116870",
+    "rank": 904,
+    "category": "Flush"
+  },
+  {
+    "prime": "70122",
+    "rank": 905,
+    "category": "Flush"
+  },
+  {
+    "prime": "346115",
+    "rank": 906,
+    "category": "Flush"
+  },
+  {
+    "prime": "207669",
+    "rank": 907,
+    "category": "Flush"
+  },
+  {
+    "prime": "138446",
+    "rank": 908,
+    "category": "Flush"
+  },
+  {
+    "prime": "148335",
+    "rank": 909,
+    "category": "Flush"
+  },
+  {
+    "prime": "98890",
+    "rank": 910,
+    "category": "Flush"
+  },
+  {
+    "prime": "59334",
+    "rank": 911,
+    "category": "Flush"
+  },
+  {
+    "prime": "94395",
+    "rank": 912,
+    "category": "Flush"
+  },
+  {
+    "prime": "62930",
+    "rank": 913,
+    "category": "Flush"
+  },
+  {
+    "prime": "37758",
+    "rank": 914,
+    "category": "Flush"
+  },
+  {
+    "prime": "26970",
+    "rank": 915,
+    "category": "Flush"
+  },
+  {
+    "prime": "2993887",
+    "rank": 916,
+    "category": "Flush"
+  },
+  {
+    "prime": "2533289",
+    "rank": 917,
+    "category": "Flush"
+  },
+  {
+    "prime": "1612093",
+    "rank": 918,
+    "category": "Flush"
+  },
+  {
+    "prime": "1151495",
+    "rank": 919,
+    "category": "Flush"
+  },
+  {
+    "prime": "690897",
+    "rank": 920,
+    "category": "Flush"
+  },
+  {
+    "prime": "460598",
+    "rank": 921,
+    "category": "Flush"
+  },
+  {
+    "prime": "1937221",
+    "rank": 922,
+    "category": "Flush"
+  },
+  {
+    "prime": "1232777",
+    "rank": 923,
+    "category": "Flush"
+  },
+  {
+    "prime": "880555",
+    "rank": 924,
+    "category": "Flush"
+  },
+  {
+    "prime": "528333",
+    "rank": 925,
+    "category": "Flush"
+  },
+  {
+    "prime": "352222",
+    "rank": 926,
+    "category": "Flush"
+  },
+  {
+    "prime": "1043119",
+    "rank": 927,
+    "category": "Flush"
+  },
+  {
+    "prime": "745085",
+    "rank": 928,
+    "category": "Flush"
+  },
+  {
+    "prime": "447051",
+    "rank": 929,
+    "category": "Flush"
+  },
+  {
+    "prime": "298034",
+    "rank": 930,
+    "category": "Flush"
+  },
+  {
+    "prime": "474145",
+    "rank": 931,
+    "category": "Flush"
+  },
+  {
+    "prime": "284487",
+    "rank": 932,
+    "category": "Flush"
+  },
+  {
+    "prime": "189658",
+    "rank": 933,
+    "category": "Flush"
+  },
+  {
+    "prime": "203205",
+    "rank": 934,
+    "category": "Flush"
+  },
+  {
+    "prime": "135470",
+    "rank": 935,
+    "category": "Flush"
+  },
+  {
+    "prime": "81282",
+    "rank": 936,
+    "category": "Flush"
+  },
+  {
+    "prime": "1733303",
+    "rank": 937,
+    "category": "Flush"
+  },
+  {
+    "prime": "1103011",
+    "rank": 938,
+    "category": "Flush"
+  },
+  {
+    "prime": "787865",
+    "rank": 939,
+    "category": "Flush"
+  },
+  {
+    "prime": "472719",
+    "rank": 940,
+    "category": "Flush"
+  },
+  {
+    "prime": "315146",
+    "rank": 941,
+    "category": "Flush"
+  },
+  {
+    "prime": "933317",
+    "rank": 942,
+    "category": "Flush"
+  },
+  {
+    "prime": "666655",
+    "rank": 943,
+    "category": "Flush"
+  },
+  {
+    "prime": "399993",
+    "rank": 944,
+    "category": "Flush"
+  },
+  {
+    "prime": "266662",
+    "rank": 945,
+    "category": "Flush"
+  },
+  {
+    "prime": "424235",
+    "rank": 946,
+    "category": "Flush"
+  },
+  {
+    "prime": "254541",
+    "rank": 947,
+    "category": "Flush"
+  },
+  {
+    "prime": "169694",
+    "rank": 948,
+    "category": "Flush"
+  },
+  {
+    "prime": "181815",
+    "rank": 949,
+    "category": "Flush"
+  },
+  {
+    "prime": "121210",
+    "rank": 950,
+    "category": "Flush"
+  },
+  {
+    "prime": "72726",
+    "rank": 951,
+    "category": "Flush"
+  },
+  {
+    "prime": "713713",
+    "rank": 952,
+    "category": "Flush"
+  },
+  {
+    "prime": "509795",
+    "rank": 953,
+    "category": "Flush"
+  },
+  {
+    "prime": "305877",
+    "rank": 954,
+    "category": "Flush"
+  },
+  {
+    "prime": "203918",
+    "rank": 955,
+    "category": "Flush"
+  },
+  {
+    "prime": "324415",
+    "rank": 956,
+    "category": "Flush"
+  },
+  {
+    "prime": "194649",
+    "rank": 957,
+    "category": "Flush"
+  },
+  {
+    "prime": "129766",
+    "rank": 958,
+    "category": "Flush"
+  },
+  {
+    "prime": "139035",
+    "rank": 959,
+    "category": "Flush"
+  },
+  {
+    "prime": "92690",
+    "rank": 960,
+    "category": "Flush"
+  },
+  {
+    "prime": "55614",
+    "rank": 961,
+    "category": "Flush"
+  },
+  {
+    "prime": "274505",
+    "rank": 962,
+    "category": "Flush"
+  },
+  {
+    "prime": "164703",
+    "rank": 963,
+    "category": "Flush"
+  },
+  {
+    "prime": "109802",
+    "rank": 964,
+    "category": "Flush"
+  },
+  {
+    "prime": "117645",
+    "rank": 965,
+    "category": "Flush"
+  },
+  {
+    "prime": "78430",
+    "rank": 966,
+    "category": "Flush"
+  },
+  {
+    "prime": "47058",
+    "rank": 967,
+    "category": "Flush"
+  },
+  {
+    "prime": "74865",
+    "rank": 968,
+    "category": "Flush"
+  },
+  {
+    "prime": "49910",
+    "rank": 969,
+    "category": "Flush"
+  },
+  {
+    "prime": "29946",
+    "rank": 970,
+    "category": "Flush"
+  },
+  {
+    "prime": "21390",
+    "rank": 971,
+    "category": "Flush"
+  },
+  {
+    "prime": "1431859",
+    "rank": 972,
+    "category": "Flush"
+  },
+  {
+    "prime": "911183",
+    "rank": 973,
+    "category": "Flush"
+  },
+  {
+    "prime": "650845",
+    "rank": 974,
+    "category": "Flush"
+  },
+  {
+    "prime": "390507",
+    "rank": 975,
+    "category": "Flush"
+  },
+  {
+    "prime": "260338",
+    "rank": 976,
+    "category": "Flush"
+  },
+  {
+    "prime": "771001",
+    "rank": 977,
+    "category": "Flush"
+  },
+  {
+    "prime": "550715",
+    "rank": 978,
+    "category": "Flush"
+  },
+  {
+    "prime": "330429",
+    "rank": 979,
+    "category": "Flush"
+  },
+  {
+    "prime": "220286",
+    "rank": 980,
+    "category": "Flush"
+  },
+  {
+    "prime": "350455",
+    "rank": 981,
+    "category": "Flush"
+  },
+  {
+    "prime": "210273",
+    "rank": 982,
+    "category": "Flush"
+  },
+  {
+    "prime": "140182",
+    "rank": 983,
+    "category": "Flush"
+  },
+  {
+    "prime": "150195",
+    "rank": 984,
+    "category": "Flush"
+  },
+  {
+    "prime": "100130",
+    "rank": 985,
+    "category": "Flush"
+  },
+  {
+    "prime": "60078",
+    "rank": 986,
+    "category": "Flush"
+  },
+  {
+    "prime": "589589",
+    "rank": 987,
+    "category": "Flush"
+  },
+  {
+    "prime": "421135",
+    "rank": 988,
+    "category": "Flush"
+  },
+  {
+    "prime": "252681",
+    "rank": 989,
+    "category": "Flush"
+  },
+  {
+    "prime": "168454",
+    "rank": 990,
+    "category": "Flush"
+  },
+  {
+    "prime": "267995",
+    "rank": 991,
+    "category": "Flush"
+  },
+  {
+    "prime": "160797",
+    "rank": 992,
+    "category": "Flush"
+  },
+  {
+    "prime": "107198",
+    "rank": 993,
+    "category": "Flush"
+  },
+  {
+    "prime": "114855",
+    "rank": 994,
+    "category": "Flush"
+  },
+  {
+    "prime": "76570",
+    "rank": 995,
+    "category": "Flush"
+  },
+  {
+    "prime": "45942",
+    "rank": 996,
+    "category": "Flush"
+  },
+  {
+    "prime": "226765",
+    "rank": 997,
+    "category": "Flush"
+  },
+  {
+    "prime": "136059",
+    "rank": 998,
+    "category": "Flush"
+  },
+  {
+    "prime": "90706",
+    "rank": 999,
+    "category": "Flush"
+  },
+  {
+    "prime": "97185",
+    "rank": 1000,
+    "category": "Flush"
+  },
+  {
+    "prime": "64790",
+    "rank": 1001,
+    "category": "Flush"
+  },
+  {
+    "prime": "38874",
+    "rank": 1002,
+    "category": "Flush"
+  },
+  {
+    "prime": "61845",
+    "rank": 1003,
+    "category": "Flush"
+  },
+  {
+    "prime": "41230",
+    "rank": 1004,
+    "category": "Flush"
+  },
+  {
+    "prime": "24738",
+    "rank": 1005,
+    "category": "Flush"
+  },
+  {
+    "prime": "17670",
+    "rank": 1006,
+    "category": "Flush"
+  },
+  {
+    "prime": "527527",
+    "rank": 1007,
+    "category": "Flush"
+  },
+  {
+    "prime": "376805",
+    "rank": 1008,
+    "category": "Flush"
+  },
+  {
+    "prime": "226083",
+    "rank": 1009,
+    "category": "Flush"
+  },
+  {
+    "prime": "150722",
+    "rank": 1010,
+    "category": "Flush"
+  },
+  {
+    "prime": "239785",
+    "rank": 1011,
+    "category": "Flush"
+  },
+  {
+    "prime": "143871",
+    "rank": 1012,
+    "category": "Flush"
+  },
+  {
+    "prime": "95914",
+    "rank": 1013,
+    "category": "Flush"
+  },
+  {
+    "prime": "102765",
+    "rank": 1014,
+    "category": "Flush"
+  },
+  {
+    "prime": "68510",
+    "rank": 1015,
+    "category": "Flush"
+  },
+  {
+    "prime": "41106",
+    "rank": 1016,
+    "category": "Flush"
+  },
+  {
+    "prime": "202895",
+    "rank": 1017,
+    "category": "Flush"
+  },
+  {
+    "prime": "121737",
+    "rank": 1018,
+    "category": "Flush"
+  },
+  {
+    "prime": "81158",
+    "rank": 1019,
+    "category": "Flush"
+  },
+  {
+    "prime": "86955",
+    "rank": 1020,
+    "category": "Flush"
+  },
+  {
+    "prime": "57970",
+    "rank": 1021,
+    "category": "Flush"
+  },
+  {
+    "prime": "34782",
+    "rank": 1022,
+    "category": "Flush"
+  },
+  {
+    "prime": "55335",
+    "rank": 1023,
+    "category": "Flush"
+  },
+  {
+    "prime": "36890",
+    "rank": 1024,
+    "category": "Flush"
+  },
+  {
+    "prime": "22134",
+    "rank": 1025,
+    "category": "Flush"
+  },
+  {
+    "prime": "15810",
+    "rank": 1026,
+    "category": "Flush"
+  },
+  {
+    "prime": "155155",
+    "rank": 1027,
+    "category": "Flush"
+  },
+  {
+    "prime": "93093",
+    "rank": 1028,
+    "category": "Flush"
+  },
+  {
+    "prime": "62062",
+    "rank": 1029,
+    "category": "Flush"
+  },
+  {
+    "prime": "66495",
+    "rank": 1030,
+    "category": "Flush"
+  },
+  {
+    "prime": "44330",
+    "rank": 1031,
+    "category": "Flush"
+  },
+  {
+    "prime": "26598",
+    "rank": 1032,
+    "category": "Flush"
+  },
+  {
+    "prime": "42315",
+    "rank": 1033,
+    "category": "Flush"
+  },
+  {
+    "prime": "28210",
+    "rank": 1034,
+    "category": "Flush"
+  },
+  {
+    "prime": "16926",
+    "rank": 1035,
+    "category": "Flush"
+  },
+  {
+    "prime": "12090",
+    "rank": 1036,
+    "category": "Flush"
+  },
+  {
+    "prime": "35805",
+    "rank": 1037,
+    "category": "Flush"
+  },
+  {
+    "prime": "23870",
+    "rank": 1038,
+    "category": "Flush"
+  },
+  {
+    "prime": "14322",
+    "rank": 1039,
+    "category": "Flush"
+  },
+  {
+    "prime": "10230",
+    "rank": 1040,
+    "category": "Flush"
+  },
+  {
+    "prime": "6510",
+    "rank": 1041,
+    "category": "Flush"
+  },
+  {
+    "prime": "2369851",
+    "rank": 1042,
+    "category": "Flush"
+  },
+  {
+    "prime": "1508087",
+    "rank": 1043,
+    "category": "Flush"
+  },
+  {
+    "prime": "1077205",
+    "rank": 1044,
+    "category": "Flush"
+  },
+  {
+    "prime": "646323",
+    "rank": 1045,
+    "category": "Flush"
+  },
+  {
+    "prime": "430882",
+    "rank": 1046,
+    "category": "Flush"
+  },
+  {
+    "prime": "1812239",
+    "rank": 1047,
+    "category": "Flush"
+  },
+  {
+    "prime": "1153243",
+    "rank": 1048,
+    "category": "Flush"
+  },
+  {
+    "prime": "823745",
+    "rank": 1049,
+    "category": "Flush"
+  },
+  {
+    "prime": "494247",
+    "rank": 1050,
+    "category": "Flush"
+  },
+  {
+    "prime": "329498",
+    "rank": 1051,
+    "category": "Flush"
+  },
+  {
+    "prime": "975821",
+    "rank": 1052,
+    "category": "Flush"
+  },
+  {
+    "prime": "697015",
+    "rank": 1053,
+    "category": "Flush"
+  },
+  {
+    "prime": "418209",
+    "rank": 1054,
+    "category": "Flush"
+  },
+  {
+    "prime": "278806",
+    "rank": 1055,
+    "category": "Flush"
+  },
+  {
+    "prime": "443555",
+    "rank": 1056,
+    "category": "Flush"
+  },
+  {
+    "prime": "266133",
+    "rank": 1057,
+    "category": "Flush"
+  },
+  {
+    "prime": "177422",
+    "rank": 1058,
+    "category": "Flush"
+  },
+  {
+    "prime": "190095",
+    "rank": 1059,
+    "category": "Flush"
+  },
+  {
+    "prime": "126730",
+    "rank": 1060,
+    "category": "Flush"
+  },
+  {
+    "prime": "76038",
+    "rank": 1061,
+    "category": "Flush"
+  },
+  {
+    "prime": "1621477",
+    "rank": 1062,
+    "category": "Flush"
+  },
+  {
+    "prime": "1031849",
+    "rank": 1063,
+    "category": "Flush"
+  },
+  {
+    "prime": "737035",
+    "rank": 1064,
+    "category": "Flush"
+  },
+  {
+    "prime": "442221",
+    "rank": 1065,
+    "category": "Flush"
+  },
+  {
+    "prime": "294814",
+    "rank": 1066,
+    "category": "Flush"
+  },
+  {
+    "prime": "873103",
+    "rank": 1067,
+    "category": "Flush"
+  },
+  {
+    "prime": "623645",
+    "rank": 1068,
+    "category": "Flush"
+  },
+  {
+    "prime": "374187",
+    "rank": 1069,
+    "category": "Flush"
+  },
+  {
+    "prime": "249458",
+    "rank": 1070,
+    "category": "Flush"
+  },
+  {
+    "prime": "396865",
+    "rank": 1071,
+    "category": "Flush"
+  },
+  {
+    "prime": "238119",
+    "rank": 1072,
+    "category": "Flush"
+  },
+  {
+    "prime": "158746",
+    "rank": 1073,
+    "category": "Flush"
+  },
+  {
+    "prime": "170085",
+    "rank": 1074,
+    "category": "Flush"
+  },
+  {
+    "prime": "113390",
+    "rank": 1075,
+    "category": "Flush"
+  },
+  {
+    "prime": "68034",
+    "rank": 1076,
+    "category": "Flush"
+  },
+  {
+    "prime": "667667",
+    "rank": 1077,
+    "category": "Flush"
+  },
+  {
+    "prime": "476905",
+    "rank": 1078,
+    "category": "Flush"
+  },
+  {
+    "prime": "286143",
+    "rank": 1079,
+    "category": "Flush"
+  },
+  {
+    "prime": "190762",
+    "rank": 1080,
+    "category": "Flush"
+  },
+  {
+    "prime": "303485",
+    "rank": 1081,
+    "category": "Flush"
+  },
+  {
+    "prime": "182091",
+    "rank": 1082,
+    "category": "Flush"
+  },
+  {
+    "prime": "121394",
+    "rank": 1083,
+    "category": "Flush"
+  },
+  {
+    "prime": "130065",
+    "rank": 1084,
+    "category": "Flush"
+  },
+  {
+    "prime": "86710",
+    "rank": 1085,
+    "category": "Flush"
+  },
+  {
+    "prime": "52026",
+    "rank": 1086,
+    "category": "Flush"
+  },
+  {
+    "prime": "256795",
+    "rank": 1087,
+    "category": "Flush"
+  },
+  {
+    "prime": "154077",
+    "rank": 1088,
+    "category": "Flush"
+  },
+  {
+    "prime": "102718",
+    "rank": 1089,
+    "category": "Flush"
+  },
+  {
+    "prime": "110055",
+    "rank": 1090,
+    "category": "Flush"
+  },
+  {
+    "prime": "73370",
+    "rank": 1091,
+    "category": "Flush"
+  },
+  {
+    "prime": "44022",
+    "rank": 1092,
+    "category": "Flush"
+  },
+  {
+    "prime": "70035",
+    "rank": 1093,
+    "category": "Flush"
+  },
+  {
+    "prime": "46690",
+    "rank": 1094,
+    "category": "Flush"
+  },
+  {
+    "prime": "28014",
+    "rank": 1095,
+    "category": "Flush"
+  },
+  {
+    "prime": "20010",
+    "rank": 1096,
+    "category": "Flush"
+  },
+  {
+    "prime": "1339481",
+    "rank": 1097,
+    "category": "Flush"
+  },
+  {
+    "prime": "852397",
+    "rank": 1098,
+    "category": "Flush"
+  },
+  {
+    "prime": "608855",
+    "rank": 1099,
+    "category": "Flush"
+  },
+  {
+    "prime": "365313",
+    "rank": 1100,
+    "category": "Flush"
+  },
+  {
+    "prime": "243542",
+    "rank": 1101,
+    "category": "Flush"
+  },
+  {
+    "prime": "721259",
+    "rank": 1102,
+    "category": "Flush"
+  },
+  {
+    "prime": "515185",
+    "rank": 1103,
+    "category": "Flush"
+  },
+  {
+    "prime": "309111",
+    "rank": 1104,
+    "category": "Flush"
+  },
+  {
+    "prime": "206074",
+    "rank": 1105,
+    "category": "Flush"
+  },
+  {
+    "prime": "327845",
+    "rank": 1106,
+    "category": "Flush"
+  },
+  {
+    "prime": "196707",
+    "rank": 1107,
+    "category": "Flush"
+  },
+  {
+    "prime": "131138",
+    "rank": 1108,
+    "category": "Flush"
+  },
+  {
+    "prime": "140505",
+    "rank": 1109,
+    "category": "Flush"
+  },
+  {
+    "prime": "93670",
+    "rank": 1110,
+    "category": "Flush"
+  },
+  {
+    "prime": "56202",
+    "rank": 1111,
+    "category": "Flush"
+  },
+  {
+    "prime": "551551",
+    "rank": 1112,
+    "category": "Flush"
+  },
+  {
+    "prime": "393965",
+    "rank": 1113,
+    "category": "Flush"
+  },
+  {
+    "prime": "236379",
+    "rank": 1114,
+    "category": "Flush"
+  },
+  {
+    "prime": "157586",
+    "rank": 1115,
+    "category": "Flush"
+  },
+  {
+    "prime": "250705",
+    "rank": 1116,
+    "category": "Flush"
+  },
+  {
+    "prime": "150423",
+    "rank": 1117,
+    "category": "Flush"
+  },
+  {
+    "prime": "100282",
+    "rank": 1118,
+    "category": "Flush"
+  },
+  {
+    "prime": "107445",
+    "rank": 1119,
+    "category": "Flush"
+  },
+  {
+    "prime": "71630",
+    "rank": 1120,
+    "category": "Flush"
+  },
+  {
+    "prime": "42978",
+    "rank": 1121,
+    "category": "Flush"
+  },
+  {
+    "prime": "212135",
+    "rank": 1122,
+    "category": "Flush"
+  },
+  {
+    "prime": "127281",
+    "rank": 1123,
+    "category": "Flush"
+  },
+  {
+    "prime": "84854",
+    "rank": 1124,
+    "category": "Flush"
+  },
+  {
+    "prime": "90915",
+    "rank": 1125,
+    "category": "Flush"
+  },
+  {
+    "prime": "60610",
+    "rank": 1126,
+    "category": "Flush"
+  },
+  {
+    "prime": "36366",
+    "rank": 1127,
+    "category": "Flush"
+  },
+  {
+    "prime": "57855",
+    "rank": 1128,
+    "category": "Flush"
+  },
+  {
+    "prime": "38570",
+    "rank": 1129,
+    "category": "Flush"
+  },
+  {
+    "prime": "23142",
+    "rank": 1130,
+    "category": "Flush"
+  },
+  {
+    "prime": "16530",
+    "rank": 1131,
+    "category": "Flush"
+  },
+  {
+    "prime": "493493",
+    "rank": 1132,
+    "category": "Flush"
+  },
+  {
+    "prime": "352495",
+    "rank": 1133,
+    "category": "Flush"
+  },
+  {
+    "prime": "211497",
+    "rank": 1134,
+    "category": "Flush"
+  },
+  {
+    "prime": "140998",
+    "rank": 1135,
+    "category": "Flush"
+  },
+  {
+    "prime": "224315",
+    "rank": 1136,
+    "category": "Flush"
+  },
+  {
+    "prime": "134589",
+    "rank": 1137,
+    "category": "Flush"
+  },
+  {
+    "prime": "89726",
+    "rank": 1138,
+    "category": "Flush"
+  },
+  {
+    "prime": "96135",
+    "rank": 1139,
+    "category": "Flush"
+  },
+  {
+    "prime": "64090",
+    "rank": 1140,
+    "category": "Flush"
+  },
+  {
+    "prime": "38454",
+    "rank": 1141,
+    "category": "Flush"
+  },
+  {
+    "prime": "189805",
+    "rank": 1142,
+    "category": "Flush"
+  },
+  {
+    "prime": "113883",
+    "rank": 1143,
+    "category": "Flush"
+  },
+  {
+    "prime": "75922",
+    "rank": 1144,
+    "category": "Flush"
+  },
+  {
+    "prime": "81345",
+    "rank": 1145,
+    "category": "Flush"
+  },
+  {
+    "prime": "54230",
+    "rank": 1146,
+    "category": "Flush"
+  },
+  {
+    "prime": "32538",
+    "rank": 1147,
+    "category": "Flush"
+  },
+  {
+    "prime": "51765",
+    "rank": 1148,
+    "category": "Flush"
+  },
+  {
+    "prime": "34510",
+    "rank": 1149,
+    "category": "Flush"
+  },
+  {
+    "prime": "20706",
+    "rank": 1150,
+    "category": "Flush"
+  },
+  {
+    "prime": "14790",
+    "rank": 1151,
+    "category": "Flush"
+  },
+  {
+    "prime": "145145",
+    "rank": 1152,
+    "category": "Flush"
+  },
+  {
+    "prime": "87087",
+    "rank": 1153,
+    "category": "Flush"
+  },
+  {
+    "prime": "58058",
+    "rank": 1154,
+    "category": "Flush"
+  },
+  {
+    "prime": "62205",
+    "rank": 1155,
+    "category": "Flush"
+  },
+  {
+    "prime": "41470",
+    "rank": 1156,
+    "category": "Flush"
+  },
+  {
+    "prime": "24882",
+    "rank": 1157,
+    "category": "Flush"
+  },
+  {
+    "prime": "39585",
+    "rank": 1158,
+    "category": "Flush"
+  },
+  {
+    "prime": "26390",
+    "rank": 1159,
+    "category": "Flush"
+  },
+  {
+    "prime": "15834",
+    "rank": 1160,
+    "category": "Flush"
+  },
+  {
+    "prime": "11310",
+    "rank": 1161,
+    "category": "Flush"
+  },
+  {
+    "prime": "33495",
+    "rank": 1162,
+    "category": "Flush"
+  },
+  {
+    "prime": "22330",
+    "rank": 1163,
+    "category": "Flush"
+  },
+  {
+    "prime": "13398",
+    "rank": 1164,
+    "category": "Flush"
+  },
+  {
+    "prime": "9570",
+    "rank": 1165,
+    "category": "Flush"
+  },
+  {
+    "prime": "6090",
+    "rank": 1166,
+    "category": "Flush"
+  },
+  {
+    "prime": "676039",
+    "rank": 1167,
+    "category": "Flush"
+  },
+  {
+    "prime": "482885",
+    "rank": 1168,
+    "category": "Flush"
+  },
+  {
+    "prime": "289731",
+    "rank": 1169,
+    "category": "Flush"
+  },
+  {
+    "prime": "193154",
+    "rank": 1170,
+    "category": "Flush"
+  },
+  {
+    "prime": "572033",
+    "rank": 1171,
+    "category": "Flush"
+  },
+  {
+    "prime": "408595",
+    "rank": 1172,
+    "category": "Flush"
+  },
+  {
+    "prime": "245157",
+    "rank": 1173,
+    "category": "Flush"
+  },
+  {
+    "prime": "163438",
+    "rank": 1174,
+    "category": "Flush"
+  },
+  {
+    "prime": "260015",
+    "rank": 1175,
+    "category": "Flush"
+  },
+  {
+    "prime": "156009",
+    "rank": 1176,
+    "category": "Flush"
+  },
+  {
+    "prime": "104006",
+    "rank": 1177,
+    "category": "Flush"
+  },
+  {
+    "prime": "111435",
+    "rank": 1178,
+    "category": "Flush"
+  },
+  {
+    "prime": "74290",
+    "rank": 1179,
+    "category": "Flush"
+  },
+  {
+    "prime": "44574",
+    "rank": 1180,
+    "category": "Flush"
+  },
+  {
+    "prime": "437437",
+    "rank": 1181,
+    "category": "Flush"
+  },
+  {
+    "prime": "312455",
+    "rank": 1182,
+    "category": "Flush"
+  },
+  {
+    "prime": "187473",
+    "rank": 1183,
+    "category": "Flush"
+  },
+  {
+    "prime": "124982",
+    "rank": 1184,
+    "category": "Flush"
+  },
+  {
+    "prime": "198835",
+    "rank": 1185,
+    "category": "Flush"
+  },
+  {
+    "prime": "119301",
+    "rank": 1186,
+    "category": "Flush"
+  },
+  {
+    "prime": "79534",
+    "rank": 1187,
+    "category": "Flush"
+  },
+  {
+    "prime": "85215",
+    "rank": 1188,
+    "category": "Flush"
+  },
+  {
+    "prime": "56810",
+    "rank": 1189,
+    "category": "Flush"
+  },
+  {
+    "prime": "34086",
+    "rank": 1190,
+    "category": "Flush"
+  },
+  {
+    "prime": "168245",
+    "rank": 1191,
+    "category": "Flush"
+  },
+  {
+    "prime": "100947",
+    "rank": 1192,
+    "category": "Flush"
+  },
+  {
+    "prime": "67298",
+    "rank": 1193,
+    "category": "Flush"
+  },
+  {
+    "prime": "72105",
+    "rank": 1194,
+    "category": "Flush"
+  },
+  {
+    "prime": "48070",
+    "rank": 1195,
+    "category": "Flush"
+  },
+  {
+    "prime": "28842",
+    "rank": 1196,
+    "category": "Flush"
+  },
+  {
+    "prime": "45885",
+    "rank": 1197,
+    "category": "Flush"
+  },
+  {
+    "prime": "30590",
+    "rank": 1198,
+    "category": "Flush"
+  },
+  {
+    "prime": "18354",
+    "rank": 1199,
+    "category": "Flush"
+  },
+  {
+    "prime": "13110",
+    "rank": 1200,
+    "category": "Flush"
+  },
+  {
+    "prime": "391391",
+    "rank": 1201,
+    "category": "Flush"
+  },
+  {
+    "prime": "279565",
+    "rank": 1202,
+    "category": "Flush"
+  },
+  {
+    "prime": "167739",
+    "rank": 1203,
+    "category": "Flush"
+  },
+  {
+    "prime": "111826",
+    "rank": 1204,
+    "category": "Flush"
+  },
+  {
+    "prime": "177905",
+    "rank": 1205,
+    "category": "Flush"
+  },
+  {
+    "prime": "106743",
+    "rank": 1206,
+    "category": "Flush"
+  },
+  {
+    "prime": "71162",
+    "rank": 1207,
+    "category": "Flush"
+  },
+  {
+    "prime": "76245",
+    "rank": 1208,
+    "category": "Flush"
+  },
+  {
+    "prime": "50830",
+    "rank": 1209,
+    "category": "Flush"
+  },
+  {
+    "prime": "30498",
+    "rank": 1210,
+    "category": "Flush"
+  },
+  {
+    "prime": "150535",
+    "rank": 1211,
+    "category": "Flush"
+  },
+  {
+    "prime": "90321",
+    "rank": 1212,
+    "category": "Flush"
+  },
+  {
+    "prime": "60214",
+    "rank": 1213,
+    "category": "Flush"
+  },
+  {
+    "prime": "64515",
+    "rank": 1214,
+    "category": "Flush"
+  },
+  {
+    "prime": "43010",
+    "rank": 1215,
+    "category": "Flush"
+  },
+  {
+    "prime": "25806",
+    "rank": 1216,
+    "category": "Flush"
+  },
+  {
+    "prime": "41055",
+    "rank": 1217,
+    "category": "Flush"
+  },
+  {
+    "prime": "27370",
+    "rank": 1218,
+    "category": "Flush"
+  },
+  {
+    "prime": "16422",
+    "rank": 1219,
+    "category": "Flush"
+  },
+  {
+    "prime": "11730",
+    "rank": 1220,
+    "category": "Flush"
+  },
+  {
+    "prime": "115115",
+    "rank": 1221,
+    "category": "Flush"
+  },
+  {
+    "prime": "69069",
+    "rank": 1222,
+    "category": "Flush"
+  },
+  {
+    "prime": "46046",
+    "rank": 1223,
+    "category": "Flush"
+  },
+  {
+    "prime": "49335",
+    "rank": 1224,
+    "category": "Flush"
+  },
+  {
+    "prime": "32890",
+    "rank": 1225,
+    "category": "Flush"
+  },
+  {
+    "prime": "19734",
+    "rank": 1226,
+    "category": "Flush"
+  },
+  {
+    "prime": "31395",
+    "rank": 1227,
+    "category": "Flush"
+  },
+  {
+    "prime": "20930",
+    "rank": 1228,
+    "category": "Flush"
+  },
+  {
+    "prime": "12558",
+    "rank": 1229,
+    "category": "Flush"
+  },
+  {
+    "prime": "8970",
+    "rank": 1230,
+    "category": "Flush"
+  },
+  {
+    "prime": "26565",
+    "rank": 1231,
+    "category": "Flush"
+  },
+  {
+    "prime": "17710",
+    "rank": 1232,
+    "category": "Flush"
+  },
+  {
+    "prime": "10626",
+    "rank": 1233,
+    "category": "Flush"
+  },
+  {
+    "prime": "7590",
+    "rank": 1234,
+    "category": "Flush"
+  },
+  {
+    "prime": "4830",
+    "rank": 1235,
+    "category": "Flush"
+  },
+  {
+    "prime": "230945",
+    "rank": 1236,
+    "category": "Flush"
+  },
+  {
+    "prime": "138567",
+    "rank": 1237,
+    "category": "Flush"
+  },
+  {
+    "prime": "92378",
+    "rank": 1238,
+    "category": "Flush"
+  },
+  {
+    "prime": "146965",
+    "rank": 1239,
+    "category": "Flush"
+  },
+  {
+    "prime": "88179",
+    "rank": 1240,
+    "category": "Flush"
+  },
+  {
+    "prime": "58786",
+    "rank": 1241,
+    "category": "Flush"
+  },
+  {
+    "prime": "62985",
+    "rank": 1242,
+    "category": "Flush"
+  },
+  {
+    "prime": "41990",
+    "rank": 1243,
+    "category": "Flush"
+  },
+  {
+    "prime": "25194",
+    "rank": 1244,
+    "category": "Flush"
+  },
+  {
+    "prime": "124355",
+    "rank": 1245,
+    "category": "Flush"
+  },
+  {
+    "prime": "74613",
+    "rank": 1246,
+    "category": "Flush"
+  },
+  {
+    "prime": "49742",
+    "rank": 1247,
+    "category": "Flush"
+  },
+  {
+    "prime": "53295",
+    "rank": 1248,
+    "category": "Flush"
+  },
+  {
+    "prime": "35530",
+    "rank": 1249,
+    "category": "Flush"
+  },
+  {
+    "prime": "21318",
+    "rank": 1250,
+    "category": "Flush"
+  },
+  {
+    "prime": "33915",
+    "rank": 1251,
+    "category": "Flush"
+  },
+  {
+    "prime": "22610",
+    "rank": 1252,
+    "category": "Flush"
+  },
+  {
+    "prime": "13566",
+    "rank": 1253,
+    "category": "Flush"
+  },
+  {
+    "prime": "9690",
+    "rank": 1254,
+    "category": "Flush"
+  },
+  {
+    "prime": "95095",
+    "rank": 1255,
+    "category": "Flush"
+  },
+  {
+    "prime": "57057",
+    "rank": 1256,
+    "category": "Flush"
+  },
+  {
+    "prime": "38038",
+    "rank": 1257,
+    "category": "Flush"
+  },
+  {
+    "prime": "40755",
+    "rank": 1258,
+    "category": "Flush"
+  },
+  {
+    "prime": "27170",
+    "rank": 1259,
+    "category": "Flush"
+  },
+  {
+    "prime": "16302",
+    "rank": 1260,
+    "category": "Flush"
+  },
+  {
+    "prime": "25935",
+    "rank": 1261,
+    "category": "Flush"
+  },
+  {
+    "prime": "17290",
+    "rank": 1262,
+    "category": "Flush"
+  },
+  {
+    "prime": "10374",
+    "rank": 1263,
+    "category": "Flush"
+  },
+  {
+    "prime": "7410",
+    "rank": 1264,
+    "category": "Flush"
+  },
+  {
+    "prime": "21945",
+    "rank": 1265,
+    "category": "Flush"
+  },
+  {
+    "prime": "14630",
+    "rank": 1266,
+    "category": "Flush"
+  },
+  {
+    "prime": "8778",
+    "rank": 1267,
+    "category": "Flush"
+  },
+  {
+    "prime": "6270",
+    "rank": 1268,
+    "category": "Flush"
+  },
+  {
+    "prime": "3990",
+    "rank": 1269,
+    "category": "Flush"
+  },
+  {
+    "prime": "51051",
+    "rank": 1270,
+    "category": "Flush"
+  },
+  {
+    "prime": "34034",
+    "rank": 1271,
+    "category": "Flush"
+  },
+  {
+    "prime": "36465",
+    "rank": 1272,
+    "category": "Flush"
+  },
+  {
+    "prime": "24310",
+    "rank": 1273,
+    "category": "Flush"
+  },
+  {
+    "prime": "14586",
+    "rank": 1274,
+    "category": "Flush"
+  },
+  {
+    "prime": "23205",
+    "rank": 1275,
+    "category": "Flush"
+  },
+  {
+    "prime": "15470",
+    "rank": 1276,
+    "category": "Flush"
+  },
+  {
+    "prime": "9282",
+    "rank": 1277,
+    "category": "Flush"
+  },
+  {
+    "prime": "6630",
+    "rank": 1278,
+    "category": "Flush"
+  },
+  {
+    "prime": "19635",
+    "rank": 1279,
+    "category": "Flush"
+  },
+  {
+    "prime": "13090",
+    "rank": 1280,
+    "category": "Flush"
+  },
+  {
+    "prime": "7854",
+    "rank": 1281,
+    "category": "Flush"
+  },
+  {
+    "prime": "5610",
+    "rank": 1282,
+    "category": "Flush"
+  },
+  {
+    "prime": "3570",
+    "rank": 1283,
+    "category": "Flush"
+  },
+  {
+    "prime": "10010",
+    "rank": 1284,
+    "category": "Flush"
+  },
+  {
+    "prime": "6006",
+    "rank": 1285,
+    "category": "Flush"
+  },
+  {
+    "prime": "4290",
+    "rank": 1286,
+    "category": "Flush"
+  },
+  {
+    "prime": "2730",
+    "rank": 1287,
+    "category": "Flush"
+  }
+]

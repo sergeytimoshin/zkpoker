@@ -1,0 +1,7 @@
+[package]
+name = "debug_infinity"
+type = "bin"
+authors = ["debug"]
+compiler_version = ">=0.30.0"
+
+[dependencies]

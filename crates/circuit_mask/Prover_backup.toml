@@ -1,0 +1,40 @@
+# Card Masking Circuit Prover Inputs
+# Test case: Player 2 masks a card that Player 1 already masked
+# This test uses NON-INFINITY points for epk and pk
+#
+# Run with: cp Prover_player2.toml Prover.toml && nargo execute --package circuit_mask
+
+# === Public Inputs ===
+# Commitment to input card (Player 1's masked card)
+input_card_commitment = "0x0a4322cc9d22376040d0841d3372978033df6a4454ae63febe4e2dc394a86091"
+
+# Commitment to output card (Player 2's masked card)
+output_card_commitment = "0x13808a210fc11a35e80e20bc394fc2fcd88dfa6210801855130e1b8f667dd85b"
+
+# Player 2's public key
+player_pub_x = "0x0d9e80a6f3f3c9b7328a8760cb3f5eb7c009ddc82f2c9e5fbcfe672c4da67fc1"
+player_pub_y = "0x013791c5ed26b3641abd7e66db4508299c5ca4e3efdbe8fc421cab05a8f506ab"
+
+# === Private Inputs ===
+# Input card components (Player 1's masked card - NOT at infinity)
+# epk = G * p1_nonce (22222)
+input_epk_x = "0x069a997ce767171cf4f337ad30beb6ed4205145282d8c1cdab7464348b2e7740"
+input_epk_y = "0x2f3671f22fdad204e3ebf38f4e98edd035504c87383842b9601010db17ea2168"
+input_epk_is_inf = false
+
+# msg = card_point + pk * p1_nonce
+input_msg_x = "0x0eaa9ab5a5b86b4d686779fbabbb7ae50682f914590c5753fb988d704ea1387d"
+input_msg_y = "0x13cc66a437be003619789f6abdd2b95449d08a86efdb74568950f4d2c7e9e429"
+
+# pk = G * p1_secret (11111) - Player 1's public key
+input_pk_x = "0x1ae1ff6b0609c6402da539167c35ee99b71179956650d85885650d1dcbf75f6b"
+input_pk_y = "0x223cb6f023994c87ea96efa97c03d7dd95f273e1fa80e6f4135ae296d41c7937"
+input_pk_is_inf = false
+
+# Player 2's secret key (scalar 33333)
+player_secret_lo = "33333"
+player_secret_hi = "0"
+
+# Masking nonce (scalar 44444)
+nonce_lo = "44444"
+nonce_hi = "0"

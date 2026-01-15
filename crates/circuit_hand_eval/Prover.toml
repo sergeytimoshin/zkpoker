@@ -1,0 +1,40 @@
+# circuit_hand_eval Prover.toml
+# Test case: High Card (Ace high)
+# Hole cards: A♠ K♦
+# Board: Q♣ J♥ 9♠ 2♥ 2♦
+# Best 5: A♠ K♦ Q♣ J♥ 9♠
+# Category: HighCard
+
+# === Public inputs ===
+merkle_root = "0x1fc95394071771508f5282dab1229ebb2d427cbdf8602dcc502fa40dde0e0a29"
+hole_cards_commitment = "0x292893fa05a3a0c9181e37b25264e36719c10160a548586b2b04ffd8ae45fc20"
+board_cards_commitment = "0x1d9e63f0d267c60fcb97adea3106c0f34d486b1b758d635f8b374dbbe459a07e"
+hand_rank = "0x1322"
+
+# === Private inputs ===
+# Hole cards (indices 0-51)
+hole_card_0 = 51
+hole_card_1 = 24
+
+# Board cards (indices 0-51)
+board_card_0 = 36
+board_card_1 = 9
+board_card_2 = 46
+board_card_3 = 0
+board_card_4 = 13
+
+# Which 5 cards form the best hand
+use_hole_0 = true
+use_hole_1 = true
+use_board_0 = true
+use_board_1 = true
+use_board_2 = true
+use_board_3 = false
+use_board_4 = false
+
+# Is this hand a flush?
+is_flush = false
+
+# Merkle proof (depth 13)
+merkle_proof = ["0x2ee3d1f288af8a8bbb61f755bce9366bf9602018c63aa0bcc5298f57d297f3a3", "0x1730760f6f91926028c5771d488109a7178552a31b28125cb96dfd724721a13f", "0x2d19db96902cee0c55b0f850ea1e2e352ed678ecee800dcc1364890ecbf8418", "0x2e658aed7f598d6f1ee7ab226256038c95c2f29aadd69a16d1da52ac89473aba", "0x206bd83d7bb3fee3b18b82eabc6d135012f51aef68c06f33f32694d98ec17fd3", "0x17324cd3993a0b22f3e74e24b2b44ed193a480c497d75d73db4eebb903cb532c", "0x7e947804e512d3c9b4b53254bb8acf28893c1c1c4f84515110ca839c8be3647", "0x2aabbffab5a3d20a7b1164d621e7d4ca5f018c2c044a524d80423b1c44b3090b", "0x12328e25de846297f451d3315c99fb6c229edaaa2515463dd89f147f60f08365", "0x1c7161871e14f21454f3c6c62b957960cdb283105ad4e4a73fb979f1b471e807", "0x2e188f9c6ca2225697afa7023423b2e5b224e2cc9bf0255edcececd1c12f2c63", "0x1ed71a6a6af370fdfde238a4d759a691bd017fe25f9fa4d9a3065a00c004c0b8", "0x1dabb904f903b0f1867863a4bb4932e6e315b4b79224cad64eb222430fa6661e"]
+merkle_path_bits = [false, true, false, false, false, true, false, false, true, true, false, false, true]

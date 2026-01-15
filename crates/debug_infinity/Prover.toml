@@ -1,0 +1,17 @@
+# Test case: [scalar] * infinity = infinity
+# When the input point is at infinity, the result should also be infinity
+
+# Input point at infinity
+point_x = "0"
+point_y = "0"
+point_is_inf = true
+
+# Scalar = 12345
+scalar_lo = "12345"
+scalar_hi = "0"
+
+# Expected output: infinity
+# Note: x and y can be anything when is_infinite=true, but we use 0 for clarity
+output_x = "0"
+output_y = "0"
+output_is_inf = true

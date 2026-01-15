@@ -1,0 +1,40 @@
+# circuit_hand_eval Prover.toml
+# Test case: Two Pair (Aces and Kings)
+# Hole cards: A♠ K♠
+# Board: A♥ K♥ Q♠ 2♥ 2♦
+# Best 5: A♠ K♠ A♥ K♥ Q♠
+# Category: TwoPair
+
+# === Public inputs ===
+merkle_root = "0x1fc95394071771508f5282dab1229ebb2d427cbdf8602dcc502fa40dde0e0a29"
+hole_cards_commitment = "0x2e8c8b28794f847795b62f8687b57cde8ab0b1a20158b50bb05760230040ed90"
+board_cards_commitment = "0x1174b72638c994491c86fd7c2e9bc3fe7924b6792773258ffc00a63ba80c68ec"
+hand_rank = "0x49c"
+
+# === Private inputs ===
+# Hole cards (indices 0-51)
+hole_card_0 = 51
+hole_card_1 = 50
+
+# Board cards (indices 0-51)
+board_card_0 = 12
+board_card_1 = 11
+board_card_2 = 49
+board_card_3 = 0
+board_card_4 = 13
+
+# Which 5 cards form the best hand
+use_hole_0 = true
+use_hole_1 = true
+use_board_0 = true
+use_board_1 = true
+use_board_2 = true
+use_board_3 = false
+use_board_4 = false
+
+# Is this hand a flush?
+is_flush = false
+
+# Merkle proof (depth 13)
+merkle_proof = ["0x2dea42ab1c9d0aef0e7d0b34eb223039cdf5cdb7ed588e53e4ad8eb6ac923d6d", "0x12e30d88803b048a07945084de666d0c2473a0ed50d1665d64e044c8794b52ce", "0x1d01f11fd8a600d8fec30b6ef523706b3fec1426599a19cdc067220cfde4ebf0", "0x2aa895c0e8fa00b6ea4fd9f6f7b29f9374b09d4b126319eec110fe7c2c167bca", "0x287d751228aa91c3f828e0f7124314c640740047d75e7ce9b8e630d7d468448", "0x2b425fa595141261b23348c1102492730ef7ea4780080b317cd8ca8aa4ef8b1f", "0x1d591aebf9cd624877d20d6b177d8bb6b9eb2abcfdc0f0d2421a4e61943f739e", "0x278ed2867495b7e6e58e87dc856269d626446b5058aa2f824cb5856e1e88c5", "0xc9ce7dddc18357001ee8c3071e289b9919e45fa73b97aba266d5893b599635d", "0xdc02902675aaab21a2a4213471b37a56ce8184736172fe0f7115699aa31d6c7", "0x2a828acc37e2eadbef556fb32142c5fad4a3ce1f5812b1ac8d05e79633128948", "0x2ce24907d3c5cf2317cfe7d59c0bd82a0e5ae3fdd0afc67bb10027ee99a1079a", "0xef2d2d13ce69d6547ad43c22a1d67a61682f3a6f3ff4f144a0c71a9e8cfa29a"]
+merkle_path_bits = [false, false, true, true, true, false, false, true, false, false, true, false, false]

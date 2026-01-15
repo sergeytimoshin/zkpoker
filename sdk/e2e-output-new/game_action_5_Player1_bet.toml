@@ -1,0 +1,22 @@
+# circuit_game_action Prover.toml
+state_before_commitment = "0x15208f2dd4d044447d017803bfcaf774d617b2a873e1cbced74622bb313df76e"
+state_after_commitment = "0x1f6c5a467d103f570034bd911cbf798eff235de2eaacfc3fd8fbb47215dabd45"
+player_hash = "0x1f1f4774b72099f63283c0ea1c152439351f0fde6e296758d17810f72166211"
+
+stack_p1_before = 94
+stack_p2_before = 94
+pot_before = 12
+street_before = 2
+current_player_before = 1
+last_action_before = 5
+last_bet_size_before = 0
+street_bet_p1_before = 0
+street_bet_p2_before = 0
+status_before = 1
+dealer = 1
+
+action_type = 1
+action_amount = 8
+
+player1_hash = "0x1f1f4774b72099f63283c0ea1c152439351f0fde6e296758d17810f72166211"
+player2_hash = "0xf10ecce07badc7b46c6c84552ea286581f0ad1fa3e6e0aaf8870bacb47cdb2b"

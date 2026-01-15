@@ -1,0 +1,5 @@
+[package]
+name = "helper_pedersen_test"
+type = "bin"
+authors = [""]
+compiler_version = ">=0.30.0"

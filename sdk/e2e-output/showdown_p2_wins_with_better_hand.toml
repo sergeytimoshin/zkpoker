@@ -1,0 +1,44 @@
+# circuit_showdown Prover.toml
+# Test case: P2 wins with better hand
+# P1 hand rank: 2578 (basic)
+# P2 hand rank: 312 (basic)
+# Winner: P2
+# Pot: 50 -> P1: 75, P2: 75
+
+# === Public inputs ===
+state_before_commitment = "0x1e16f1d6e45fd58764a5771b30a7d7936f736bb009d80b8454d4548ce713bbf4"
+state_after_commitment = "0x27027d2524dfa5b58d0ad8934d0358fb49e17ce5868f37423c6765cca075fb3b"
+merkle_root = "0x1fc95394071771508f5282dab1229ebb2d427cbdf8602dcc502fa40dde0e0a29"
+_p1_hole_commitment = "0x67635fc829435949ed0ced751d11f3f823087ec463ca6ee53e253fb7e390e74"
+_p2_hole_commitment = "0xed18d49bbde0d729a16ec4d03118117211fd5ea5917849f10fe763a65e33d97"
+_board_commitment = "0x9f11925dfcfe0a4e45156e5556bb27412f558e6556c7f2c6b2c27d7e24f943c"
+
+# === Private inputs ===
+# Game state before
+stack_p1_before = 75
+stack_p2_before = 25
+pot = 50
+street = 4
+current_player = 1
+last_action = 2
+last_bet_size = 0
+street_bet_p1 = 0
+street_bet_p2 = 0
+status = 1
+dealer = 2
+
+# Hand ranks
+p1_hand_rank = 2578
+p2_hand_rank = 312
+
+# P1 Merkle proof
+p1_lookup_key = "0xb9d541"
+p1_is_flush = false
+p1_merkle_proof = ["0x2ae15da074e4fdafa13cd22f43f3bde7d62685439a3dd29a008cf07ea4176602", "0x1bbe49342796b995b128df6f7255cd085d15f289344ece75e4e7145e9afd3375", "0x26689845ea923f39b53ea13c0a6e85a44e30733b3ba76d0254d89c27a687cd77", "0x1d33988c9799ef34ca912dc2d889ced3e1e919495ee5801175594b1ff792d703", "0x215e01e74ae8a5b08127032492c9cd709373f7711b44852b29695ee3f22ef18a", "0x2a76e7752ac14aa9dccea1379179a7d8a660dd58537eee92002148cbb99142b4", "0x249d3d48d7b8fe754c02b7ceb783b9413f7b7159d94fc316cff244805419b985", "0x20f106c19b7b0a2e845521156461069b7296b780459343ca1f66fafe9436439f", "0x301941ba2897ae22acfa49a7fdd5b2078b630a7732b70f98578ec1e8c5cb1621", "0x24da3c352fbbf84d013989e30ef93841d3bc059c9be7461b13323ef94c44dd8c", "0x2e79b6d55457127026a976d36453d2877e09e5ce564864f4da44aa5163a5a00c", "0x68922f370f72fa95a8cc040a56688d15351242b0799c7b78ca8f91d9aed8332", "0xef2d2d13ce69d6547ad43c22a1d67a61682f3a6f3ff4f144a0c71a9e8cfa29a"]
+p1_merkle_path_bits = [false, true, false, false, true, false, false, false, false, true, false, true, false]
+
+# P2 Merkle proof
+p2_lookup_key = "0x1de9f61"
+p2_is_flush = false
+p2_merkle_proof = ["0x1e809b0239dec79ceb345aec34637122b4bbe210b9d9ac32ac6a1eb636ebea2e", "0x256a72552a9972c1a1af8b3640ac98c2ccb14a278189191240a1c3d9d7528338", "0x127e0cc56fadcf64d81241e930114570f48b532074efd0fd539169d730fff514", "0x7994248e59fe4f08b87c7eea350beddf491fc587172fa1f76ea245f1f7f53f6", "0x205cf9fa63617f28fafb0323c3c057849e150ccea24b548f7ab392e159bfc708", "0x2954abafd9366855a53017b530988dd91780fa79eec4c965bc27d393eefc9ae4", "0x19ae8a95b1af866f00e8deed145025167614977bc97c79728101c5dbb70f322", "0x2cd35b22058289cb5e3f6007dbddef4284e0bc619886d672da014eea1e40baa4", "0xb4899246488fd9cf2352c2416dbed6e73373d11aa04ea0bd71b9e516dcf1f99", "0x1682d7f4be5d809172d8470c8027213baac98134c46fd048ba1aa1183cae4c38", "0x19e9eece2b435fa17d99cff92e814163665e4fb3d070d6193b463e2258c18f77", "0x2ce24907d3c5cf2317cfe7d59c0bd82a0e5ae3fdd0afc67bb10027ee99a1079a", "0xef2d2d13ce69d6547ad43c22a1d67a61682f3a6f3ff4f144a0c71a9e8cfa29a"]
+p2_merkle_path_bits = [false, false, false, true, true, true, false, false, true, false, false, false, false]

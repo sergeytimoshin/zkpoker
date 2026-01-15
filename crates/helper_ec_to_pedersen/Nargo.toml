@@ -1,0 +1,5 @@
+[package]
+name = "helper_ec_to_pedersen"
+type = "bin"
+authors = [""]
+compiler_version = ">=0.30.0"

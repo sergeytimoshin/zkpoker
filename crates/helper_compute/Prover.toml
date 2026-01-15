@@ -1,0 +1,12 @@
+# Compute depth-13 Merkle tree for 2 hands (showdown)
+# Test case: P1 has better hand (rank 100) vs P2 (rank 500)
+
+# Player 1 hand: lookup_key=48, rank=100 (better), not flush
+p1_lookup_key = "48"
+p1_hand_rank = "100"
+p1_is_flush = "0"
+
+# Player 2 hand: lookup_key=72, rank=500 (worse), not flush
+p2_lookup_key = "72"
+p2_hand_rank = "500"
+p2_is_flush = "0"

@@ -1,0 +1,21 @@
+[workspace]
+members = [
+    "crates/zkpoker_primitives",
+    "crates/circuit_mask",
+    "crates/circuit_unmask",
+    "crates/circuit_shuffle",
+    "crates/circuit_hand_eval",
+    "crates/circuit_game_action",
+    "crates/circuit_showdown",
+    "crates/helper_compute",
+    "crates/helper_showdown",
+    "crates/helper_mask_values",
+    "crates/helper_minimal_ec",
+    "crates/helper_pedersen_test",
+    "crates/helper_combined_test",
+    "crates/helper_ec_to_pedersen",
+    "crates/helper_mask_player2",
+    "crates/integration_tests",
+    "crates/debug_infinity"
+]
+default-member = "crates/zkpoker_primitives"

@@ -1,0 +1,22 @@
+{
+  "name": "@zkpoker/client",
+  "version": "0.1.0",
+  "description": "ZK Poker browser client with Groth16 proving",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "circomlibjs": "^0.1.7",
+    "snarkjs": "^0.7.4"
+  },
+  "devDependencies": {
+    "buffer": "^6.0.3",
+    "events": "^3.3.0",
+    "util": "^0.12.5",
+    "vite": "^5.0.0",
+    "vite-plugin-node-polyfills": "^0.25.0"
+  }
+}

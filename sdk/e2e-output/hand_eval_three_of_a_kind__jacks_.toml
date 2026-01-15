@@ -1,0 +1,40 @@
+# circuit_hand_eval Prover.toml
+# Test case: Three of a Kind (Jacks)
+# Hole cards: J♠ J♥
+# Board: J♦ A♠ K♠ 2♥ 2♦
+# Best 5: J♠ J♥ J♦ A♠ K♠
+# Category: ThreeOfAKind
+
+# === Public inputs ===
+merkle_root = "0x1fc95394071771508f5282dab1229ebb2d427cbdf8602dcc502fa40dde0e0a29"
+hole_cards_commitment = "0x22dae2fec652ee80a8524027fe4d4a5251aaeadce88e00f92d9e27faa3f630e9"
+board_cards_commitment = "0x2a9c83006d33fe87b9b5256d631e6574f79c1969a404de8dd61420ba7270dda5"
+hand_rank = "0x208"
+
+# === Private inputs ===
+# Hole cards (indices 0-51)
+hole_card_0 = 48
+hole_card_1 = 9
+
+# Board cards (indices 0-51)
+board_card_0 = 22
+board_card_1 = 51
+board_card_2 = 50
+board_card_3 = 0
+board_card_4 = 13
+
+# Which 5 cards form the best hand
+use_hole_0 = true
+use_hole_1 = true
+use_board_0 = true
+use_board_1 = true
+use_board_2 = true
+use_board_3 = false
+use_board_4 = false
+
+# Is this hand a flush?
+is_flush = false
+
+# Merkle proof (depth 13)
+merkle_proof = ["0x37c29ac2f3a9afd1215e3e29fb18cadd112beea4e9d283be408ed300cdabab1", "0x16ca652c68d7755e80d07c70358493f52107374dd0cb9b0713e6b758eede488b", "0x2b5ca30755e5b80706233aee6b29d2be8f1206eff982863d7c45e16a18b0ca34", "0xd8bbfa00704613749d4dad9eef0c2cafda6fb35fec9d9db69bf856dc70925f7", "0x1cbf962e9a9e1bc611e3deefb00e3084a96dac1168eb7efe17adafe6391a7667", "0x4cdb8ff99d6f33052996826d4e1bc6924d91304932a8657202c53437ea79bd0", "0x12ae18d26f3102eef4861651ff21cd1d1141f223c5abd846fe97f82ee919ff90", "0x25f3bcc6a9fb2e149698d6ecc9950be2ac38782e60fbe2188e2d2142cf4d82df", "0xd95266df0daf2d8fdce5bde6bde95bd1eafb0558cb0bacac027a59ab7f84514", "0x1cb8d72c56001873dbafed8b7e2accaa9cce91777ece923071383bf033e32f15", "0x19e9eece2b435fa17d99cff92e814163665e4fb3d070d6193b463e2258c18f77", "0x2ce24907d3c5cf2317cfe7d59c0bd82a0e5ae3fdd0afc67bb10027ee99a1079a", "0xef2d2d13ce69d6547ad43c22a1d67a61682f3a6f3ff4f144a0c71a9e8cfa29a"]
+merkle_path_bits = [false, false, false, true, false, false, false, false, false, true, false, false, false]

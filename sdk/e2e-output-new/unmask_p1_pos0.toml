@@ -1,0 +1,17 @@
+# circuit_unmask Prover.toml
+# Player 1 unmasking card at position 0
+
+input_card_commitment = "0x1f7586f18fb9228af391cba5c951daa4ce7a9be0ee83119d57e163770c859f55"
+output_card_commitment = "0x2fa6275c92f173f34fd21c209525d7db4d8a014eb40aa82da03d166f8b2fe45c"
+player_pub_x = "0x24395e22099162b21ee906a61cdf48bcc6281ffcabf9ef7be2b60e42e8d63903"
+player_pub_y = "0x163c7c24c6589ca61f68ba0ffe230fd208f6ae2f8e6da58f7345b69d0a12c8f9"
+
+input_epk_x = "0x267fd8e3b1f0115595c194c0862bb408f7299994c2870402af4ec893dcc672ca"
+input_epk_y = "0x2e7778773911703970907e421aed1c13a566b8947d1510f8134a6e83d99bab14"
+input_msg_x = "0x22b37476b287b8bd55feea31b05a8389cf2affa8a8fcac77fad6a073f093e995"
+input_msg_y = "0x133ba012c63e5e3939bb51ade01a722824a72d7cc00c8fda177dc5008c7d6ff7"
+input_pk_x = "0x2db867da9fed4f9cd0e5b7472de0e1a0587c236b103c852424349178f079c5c8"
+input_pk_y = "0x11671fe5742764a9779a25f0ff88bad367048ccc4e8922977161c11a1708e515"
+
+player_secret_lo = "0x4fb2dbece233eef2245693529f9a8e49"
+player_secret_hi = "0xa04a51e3d7d1cfdef2a9f634c6bc47f"
